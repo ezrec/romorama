@@ -326,17 +326,17 @@ pintype=tri
 }
 B 300 0 2000 5800 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
 T 300 6850 5 10 0 0 0 0 1
-device=ST39SF020A
+device=JEDEC 512Kx8 parallel flash memory
 T 2300 5900 8 10 1 1 0 6 1
 refdes=U?
 T 300 7250 5 10 0 0 0 0 1
 footprint=DIP32
 T 300 7850 5 10 0 0 0 0 1
-description=2Mbit (256K x 8) multi-purpose flash memory
+description=4Mbit (512K x 8) multi-purpose flash memory
 T 300 7050 5 10 0 0 0 0 1
 numslots=0
 T 300 8050 5 10 0 0 0 0 1
-author=Werner Hoch <werner.hoATgmx.de>
+author=Jason McMullan <jason.mcmullan@gmail.com>
 T 300 7450 5 10 0 0 0 0 1
 net=GND:16
 T 300 7650 5 10 0 0 0 0 1
