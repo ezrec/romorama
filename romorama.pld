@@ -5,10 +5,10 @@ ROMORAMA   ; Signature line
 /RST  OVL /WE /OE /OVR ROMH /ROMCS  RAMCS0  RAMCS1  RAMCS2  RAMCS3 VCC
 ; /RST		in	Reset
 ; /AS		in	Address strobe
-; A23-A18	in	Decode lines
-; READ		in	Read-not-Write (aka /WE)
+;  A23-A18	in	Decode lines
+;  READ		in	Read-not-Write (aka /WE)
 ;
-; /OVL		io	Overlay active
+;  OVL		io	Overlay active (buried logic)
 ;
 ; /WE		out	Write Enable
 ; /OE		out	Output Enable
