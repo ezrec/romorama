@@ -20,7 +20,7 @@ footprint=DIP32
 C 83400 68700 1 0 1 input-2.sym
 {
 T 83400 68900 5 10 0 0 0 6 1
-net=ZORRO-A1:1
+net=ZORRO/A1:1
 T 82800 69400 5 10 0 0 0 6 1
 device=none
 T 82900 68800 5 10 1 1 0 1 1
@@ -29,7 +29,7 @@ value=A1
 C 83800 68400 1 0 1 input-2.sym
 {
 T 83800 68600 5 10 0 0 0 6 1
-net=ZORRO-A2:1
+net=ZORRO/A2:1
 T 83200 69100 5 10 0 0 0 6 1
 device=none
 T 83300 68500 5 10 1 1 0 1 1
@@ -39,7 +39,7 @@ C 39400 39100 0 0 0 title-bordered-A0.sym
 C 83400 68100 1 0 1 input-2.sym
 {
 T 83400 68300 5 10 0 0 0 6 1
-net=ZORRO-A3:1
+net=ZORRO/A3:1
 T 82800 68800 5 10 0 0 0 6 1
 device=none
 T 82900 68200 5 10 1 1 0 1 1
@@ -48,7 +48,7 @@ value=A3
 C 83800 67800 1 0 1 input-2.sym
 {
 T 83800 68000 5 10 0 0 0 6 1
-net=ZORRO-A4:1
+net=ZORRO/A4:1
 T 83200 68500 5 10 0 0 0 6 1
 device=none
 T 83300 67900 5 10 1 1 0 1 1
@@ -57,7 +57,7 @@ value=A4
 C 83400 67500 1 0 1 input-2.sym
 {
 T 83400 67700 5 10 0 0 0 6 1
-net=ZORRO-A5:1
+net=ZORRO/A5:1
 T 82800 68200 5 10 0 0 0 6 1
 device=none
 T 82900 67600 5 10 1 1 0 1 1
@@ -66,7 +66,7 @@ value=A5
 C 83800 67200 1 0 1 input-2.sym
 {
 T 83800 67400 5 10 0 0 0 6 1
-net=ZORRO-A6:1
+net=ZORRO/A6:1
 T 83200 67900 5 10 0 0 0 6 1
 device=none
 T 83300 67300 5 10 1 1 0 1 1
@@ -75,7 +75,7 @@ value=A6
 C 83400 66900 1 0 1 input-2.sym
 {
 T 83400 67100 5 10 0 0 0 6 1
-net=ZORRO-A7:1
+net=ZORRO/A7:1
 T 82800 67600 5 10 0 0 0 6 1
 device=none
 T 82900 67000 5 10 1 1 0 1 1
@@ -84,7 +84,7 @@ value=A7
 C 83800 66600 1 0 1 input-2.sym
 {
 T 83800 66800 5 10 0 0 0 6 1
-net=ZORRO-A8:1
+net=ZORRO/A8:1
 T 83200 67300 5 10 0 0 0 6 1
 device=none
 T 83300 66700 5 10 1 1 0 1 1
@@ -93,7 +93,7 @@ value=A8
 C 83400 66300 1 0 1 input-2.sym
 {
 T 83400 66500 5 10 0 0 0 6 1
-net=ZORRO-A9:1
+net=ZORRO/A9:1
 T 82800 67000 5 10 0 0 0 6 1
 device=none
 T 82900 66400 5 10 1 1 0 1 1
@@ -102,7 +102,7 @@ value=A9
 C 83800 66000 1 0 1 input-2.sym
 {
 T 83800 66200 5 10 0 0 0 6 1
-net=ZORRO-A10:1
+net=ZORRO/A10:1
 T 83200 66700 5 10 0 0 0 6 1
 device=none
 T 83300 66100 5 10 1 1 0 1 1
@@ -113,7 +113,7 @@ C 83400 65700 1 0 1 input-2.sym
 T 82900 65800 5 10 1 1 0 1 1
 value=A11
 T 83400 65900 5 10 0 0 0 6 1
-net=ZORRO-A11:1
+net=ZORRO/A11:1
 T 82800 66400 5 10 0 0 0 6 1
 device=none
 }
@@ -122,14 +122,14 @@ C 83800 65400 1 0 1 input-2.sym
 T 83300 65500 5 10 1 1 0 1 1
 value=A12
 T 83800 65600 5 10 0 0 0 6 1
-net=ZORRO-A12:1
+net=ZORRO/A12:1
 T 83200 66100 5 10 0 0 0 6 1
 device=none
 }
 C 83400 65100 1 0 1 input-2.sym
 {
 T 83400 65300 5 10 0 0 0 6 1
-net=ZORRO-A13:1
+net=ZORRO/A13:1
 T 82800 65800 5 10 0 0 0 6 1
 device=none
 T 82900 65200 5 10 1 1 0 1 1
@@ -138,7 +138,7 @@ value=A13
 C 83800 64800 1 0 1 input-2.sym
 {
 T 83800 65000 5 10 0 0 0 6 1
-net=ZORRO-A14:1
+net=ZORRO/A14:1
 T 83200 65500 5 10 0 0 0 6 1
 device=none
 T 83300 64900 5 10 1 1 0 1 1
@@ -147,7 +147,7 @@ value=A14
 C 83400 64500 1 0 1 input-2.sym
 {
 T 83400 64700 5 10 0 0 0 6 1
-net=ZORRO-A15:1
+net=ZORRO/A15:1
 T 82800 65200 5 10 0 0 0 6 1
 device=none
 T 82900 64600 5 10 1 1 0 1 1
@@ -156,7 +156,7 @@ value=A15
 C 83800 64200 1 0 1 input-2.sym
 {
 T 83800 64400 5 10 0 0 0 6 1
-net=ZORRO-A16:1
+net=ZORRO/A16:1
 T 83200 64900 5 10 0 0 0 6 1
 device=none
 T 83300 64300 5 10 1 1 0 1 1
@@ -165,7 +165,7 @@ value=A16
 C 83400 63900 1 0 1 input-2.sym
 {
 T 83400 64100 5 10 0 0 0 6 1
-net=ZORRO-A17:1
+net=ZORRO/A17:1
 T 82800 64600 5 10 0 0 0 6 1
 device=none
 T 82900 64000 5 10 1 1 0 1 1
@@ -174,7 +174,7 @@ value=A17
 C 83800 63600 1 0 1 input-2.sym
 {
 T 83800 63800 5 10 0 0 0 6 1
-net=ZORRO-A18:1
+net=ZORRO/A18:1
 T 83200 64300 5 10 0 0 0 6 1
 device=none
 T 83300 63700 5 10 1 1 0 1 1
@@ -183,7 +183,7 @@ value=A18
 C 83300 63300 1 0 1 input-2.sym
 {
 T 83300 63500 5 10 0 0 0 6 1
-net=CS-ROMH:1
+net=CS/ROMH:1
 T 82700 64000 5 10 0 0 0 6 1
 device=none
 T 82800 63400 5 10 1 1 0 1 1
@@ -201,7 +201,7 @@ refdes=CONN1
 C 43800 62100 1 0 0 output-2.sym
 {
 T 43800 62300 5 10 0 0 0 0 1
-net=ZORRO-A1:1
+net=ZORRO/A1:1
 T 44400 62800 5 10 0 0 0 0 1
 device=none
 T 45100 62200 5 10 1 1 0 7 1
@@ -210,7 +210,7 @@ value=A1
 C 44400 61800 1 0 0 output-2.sym
 {
 T 44400 62000 5 10 0 0 0 0 1
-net=ZORRO-A2:1
+net=ZORRO/A2:1
 T 45000 62500 5 10 0 0 0 0 1
 device=none
 T 45700 61900 5 10 1 1 0 7 1
@@ -219,7 +219,7 @@ value=A2
 C 43800 61500 1 0 0 output-2.sym
 {
 T 43800 61700 5 10 0 0 0 0 1
-net=ZORRO-A3:1
+net=ZORRO/A3:1
 T 44400 62200 5 10 0 0 0 0 1
 device=none
 T 45100 61600 5 10 1 1 0 7 1
@@ -228,7 +228,7 @@ value=A3
 C 44400 61200 1 0 0 output-2.sym
 {
 T 44400 61400 5 10 0 0 0 0 1
-net=ZORRO-A4:1
+net=ZORRO/A4:1
 T 45000 61900 5 10 0 0 0 0 1
 device=none
 T 45700 61300 5 10 1 1 0 7 1
@@ -237,7 +237,7 @@ value=A4
 C 43800 60900 1 0 0 output-2.sym
 {
 T 43800 61100 5 10 0 0 0 0 1
-net=ZORRO-A5:1
+net=ZORRO/A5:1
 T 44400 61600 5 10 0 0 0 0 1
 device=none
 T 45100 61000 5 10 1 1 0 7 1
@@ -246,7 +246,7 @@ value=A5
 C 44400 60600 1 0 0 output-2.sym
 {
 T 44400 60800 5 10 0 0 0 0 1
-net=ZORRO-A6:1
+net=ZORRO/A6:1
 T 45000 61300 5 10 0 0 0 0 1
 device=none
 T 45700 60700 5 10 1 1 0 7 1
@@ -255,7 +255,7 @@ value=A6
 C 43800 60300 1 0 0 output-2.sym
 {
 T 43800 60500 5 10 0 0 0 0 1
-net=ZORRO-A7:1
+net=ZORRO/A7:1
 T 44400 61000 5 10 0 0 0 0 1
 device=none
 T 45100 60400 5 10 1 1 0 7 1
@@ -264,7 +264,7 @@ value=A7
 C 44400 60000 1 0 0 output-2.sym
 {
 T 44400 60200 5 10 0 0 0 0 1
-net=ZORRO-A8:1
+net=ZORRO/A8:1
 T 45000 60700 5 10 0 0 0 0 1
 device=none
 T 45700 60100 5 10 1 1 0 7 1
@@ -273,7 +273,7 @@ value=A8
 C 43800 59700 1 0 0 output-2.sym
 {
 T 43800 59900 5 10 0 0 0 0 1
-net=ZORRO-A9:1
+net=ZORRO/A9:1
 T 44400 60400 5 10 0 0 0 0 1
 device=none
 T 45100 59800 5 10 1 1 0 7 1
@@ -282,7 +282,7 @@ value=A9
 C 44400 59400 1 0 0 output-2.sym
 {
 T 44400 59600 5 10 0 0 0 0 1
-net=ZORRO-A10:1
+net=ZORRO/A10:1
 T 45000 60100 5 10 0 0 0 0 1
 device=none
 T 45700 59500 5 10 1 1 0 7 1
@@ -293,7 +293,7 @@ C 43800 59100 1 0 0 output-2.sym
 T 45100 59200 5 10 1 1 0 7 1
 value=A11
 T 43800 59300 5 10 0 0 0 0 1
-net=ZORRO-A11:1
+net=ZORRO/A11:1
 T 44400 59800 5 10 0 0 0 0 1
 device=none
 }
@@ -302,14 +302,14 @@ C 44400 58800 1 0 0 output-2.sym
 T 45700 58900 5 10 1 1 0 7 1
 value=A12
 T 44400 59000 5 10 0 0 0 0 1
-net=ZORRO-A12:1
+net=ZORRO/A12:1
 T 45000 59500 5 10 0 0 0 0 1
 device=none
 }
 C 43800 58500 1 0 0 output-2.sym
 {
 T 43800 58700 5 10 0 0 0 0 1
-net=ZORRO-A13:1
+net=ZORRO/A13:1
 T 44400 59200 5 10 0 0 0 0 1
 device=none
 T 45100 58600 5 10 1 1 0 7 1
@@ -318,7 +318,7 @@ value=A13
 C 44400 58200 1 0 0 output-2.sym
 {
 T 44400 58400 5 10 0 0 0 0 1
-net=ZORRO-A14:1
+net=ZORRO/A14:1
 T 45000 58900 5 10 0 0 0 0 1
 device=none
 T 45700 58300 5 10 1 1 0 7 1
@@ -327,7 +327,7 @@ value=A14
 C 43800 57900 1 0 0 output-2.sym
 {
 T 43800 58100 5 10 0 0 0 0 1
-net=ZORRO-A15:1
+net=ZORRO/A15:1
 T 44400 58600 5 10 0 0 0 0 1
 device=none
 T 45100 58000 5 10 1 1 0 7 1
@@ -336,7 +336,7 @@ value=A15
 C 44400 57600 1 0 0 output-2.sym
 {
 T 44400 57800 5 10 0 0 0 0 1
-net=ZORRO-A16:1
+net=ZORRO/A16:1
 T 45000 58300 5 10 0 0 0 0 1
 device=none
 T 45700 57700 5 10 1 1 0 7 1
@@ -345,7 +345,7 @@ value=A16
 C 43800 57300 1 0 0 output-2.sym
 {
 T 43800 57500 5 10 0 0 0 0 1
-net=ZORRO-A17:1
+net=ZORRO/A17:1
 T 44400 58000 5 10 0 0 0 0 1
 device=none
 T 45100 57400 5 10 1 1 0 7 1
@@ -354,7 +354,7 @@ value=A17
 C 44400 57000 1 0 0 output-2.sym
 {
 T 44400 57200 5 10 0 0 0 0 1
-net=ZORRO-A18:1
+net=ZORRO/A18:1
 T 45000 57700 5 10 0 0 0 0 1
 device=none
 T 45700 57100 5 10 1 1 0 7 1
@@ -363,7 +363,7 @@ value=A18
 C 43800 56700 1 0 0 output-2.sym
 {
 T 43800 56900 5 10 0 0 0 0 1
-net=ZORRO-A19:1
+net=ZORRO/A19:1
 T 44400 57400 5 10 0 0 0 0 1
 device=none
 T 45100 56800 5 10 1 1 0 7 1
@@ -372,7 +372,7 @@ value=A19
 C 44400 56400 1 0 0 output-2.sym
 {
 T 44400 56600 5 10 0 0 0 0 1
-net=ZORRO-A20:1
+net=ZORRO/A20:1
 T 45000 57100 5 10 0 0 0 0 1
 device=none
 T 45700 56500 5 10 1 1 0 7 1
@@ -383,7 +383,7 @@ C 43800 56100 1 0 0 output-2.sym
 T 45100 56200 5 10 1 1 0 7 1
 value=A21
 T 43800 56300 5 10 0 0 0 0 1
-net=ZORRO-A21:1
+net=ZORRO/A21:1
 T 44400 56800 5 10 0 0 0 0 1
 device=none
 }
@@ -392,14 +392,14 @@ C 44400 55800 1 0 0 output-2.sym
 T 45700 55900 5 10 1 1 0 7 1
 value=A22
 T 44400 56000 5 10 0 0 0 0 1
-net=ZORRO-A22:1
+net=ZORRO/A22:1
 T 45000 56500 5 10 0 0 0 0 1
 device=none
 }
 C 43800 55500 1 0 0 output-2.sym
 {
 T 43800 55700 5 10 0 0 0 0 1
-net=ZORRO-A23:1
+net=ZORRO/A23:1
 T 44400 56200 5 10 0 0 0 0 1
 device=none
 T 45100 55600 5 10 1 1 0 7 1
@@ -815,7 +815,7 @@ pintype=io
 C 44400 55200 1 0 0 output-2.sym
 {
 T 45300 55400 5 10 0 0 0 0 1
-net=ZORRO-READ:1
+net=ZORRO/READ:1
 T 44600 55900 5 10 0 0 0 0 1
 device=none
 T 45300 55300 5 10 1 1 0 1 1
@@ -824,43 +824,43 @@ value=READ
 C 43800 54900 1 0 0 output-2.sym
 {
 T 44700 55100 5 10 0 0 0 0 1
-net=ZORRO-/LDS:1
+net=ZORRO/LDS#:1
 T 44000 55600 5 10 0 0 0 0 1
 device=none
 T 44700 55000 5 10 1 1 0 1 1
-value=/LDS
+value=LDS#
 }
 C 44400 54600 1 0 0 output-2.sym
 {
 T 45300 54800 5 10 0 0 0 0 1
-net=ZORRO-/UDS:1
+net=ZORRO/UDS#:1
 T 44600 55300 5 10 0 0 0 0 1
 device=none
 T 45300 54700 5 10 1 1 0 1 1
-value=/UDS
+value=UDS#
 }
 C 43800 54300 1 0 0 output-2.sym
 {
 T 44700 54500 5 10 0 0 0 0 1
-net=ZORRO-/AS:1
+net=ZORRO/AS#:1
 T 44000 55000 5 10 0 0 0 0 1
 device=none
 T 44700 54400 5 10 1 1 0 1 1
-value=/AS
+value=AS#
 }
 C 45800 54000 1 0 1 input-2.sym
 {
 T 45800 54200 5 10 0 0 0 6 1
-net=ZORRO-/OVR:1
+net=ZORRO/OVR#:1
 T 45200 54700 5 10 0 0 0 6 1
 device=none
 T 45300 54100 5 10 1 1 0 1 1
-value=/OVR
+value=OVR#
 }
 C 44400 53400 1 0 0 io-1.sym
 {
 T 45300 53600 5 10 0 0 0 0 1
-net=ZORRO-D0:1
+net=ZORRO/D0:1
 T 44600 54000 5 10 0 0 0 0 1
 device=none
 T 45300 53500 5 10 1 1 0 1 1
@@ -869,7 +869,7 @@ value=D0
 C 43800 53100 1 0 0 io-1.sym
 {
 T 44700 53300 5 10 0 0 0 0 1
-net=ZORRO-D1:1
+net=ZORRO/D1:1
 T 44000 53700 5 10 0 0 0 0 1
 device=none
 T 44700 53200 5 10 1 1 0 1 1
@@ -878,7 +878,7 @@ value=D1
 C 44400 52800 1 0 0 io-1.sym
 {
 T 45300 53000 5 10 0 0 0 0 1
-net=ZORRO-D2:1
+net=ZORRO/D2:1
 T 44600 53400 5 10 0 0 0 0 1
 device=none
 T 45300 52900 5 10 1 1 0 1 1
@@ -887,7 +887,7 @@ value=D2
 C 43800 52500 1 0 0 io-1.sym
 {
 T 44700 52700 5 10 0 0 0 0 1
-net=ZORRO-D3:1
+net=ZORRO/D3:1
 T 44000 53100 5 10 0 0 0 0 1
 device=none
 T 44700 52600 5 10 1 1 0 1 1
@@ -896,7 +896,7 @@ value=D3
 C 44400 52200 1 0 0 io-1.sym
 {
 T 45300 52400 5 10 0 0 0 0 1
-net=ZORRO-D4:1
+net=ZORRO/D4:1
 T 44600 52800 5 10 0 0 0 0 1
 device=none
 T 45300 52300 5 10 1 1 0 1 1
@@ -905,7 +905,7 @@ value=D4
 C 43800 51900 1 0 0 io-1.sym
 {
 T 44700 52100 5 10 0 0 0 0 1
-net=ZORRO-D5:1
+net=ZORRO/D5:1
 T 44000 52500 5 10 0 0 0 0 1
 device=none
 T 44700 52000 5 10 1 1 0 1 1
@@ -914,7 +914,7 @@ value=D5
 C 44400 51600 1 0 0 io-1.sym
 {
 T 45300 51800 5 10 0 0 0 0 1
-net=ZORRO-D6:1
+net=ZORRO/D6:1
 T 44600 52200 5 10 0 0 0 0 1
 device=none
 T 45300 51700 5 10 1 1 0 1 1
@@ -923,7 +923,7 @@ value=D6
 C 43800 51300 1 0 0 io-1.sym
 {
 T 44700 51500 5 10 0 0 0 0 1
-net=ZORRO-D7:1
+net=ZORRO/D7:1
 T 44000 51900 5 10 0 0 0 0 1
 device=none
 T 44700 51400 5 10 1 1 0 1 1
@@ -932,7 +932,7 @@ value=D7
 C 44400 51000 1 0 0 io-1.sym
 {
 T 45300 51200 5 10 0 0 0 0 1
-net=ZORRO-D8:1
+net=ZORRO/D8:1
 T 44600 51600 5 10 0 0 0 0 1
 device=none
 T 45300 51100 5 10 1 1 0 1 1
@@ -941,7 +941,7 @@ value=D8
 C 43800 50700 1 0 0 io-1.sym
 {
 T 44700 50900 5 10 0 0 0 0 1
-net=ZORRO-D9:1
+net=ZORRO/D9:1
 T 44000 51300 5 10 0 0 0 0 1
 device=none
 T 44700 50800 5 10 1 1 0 1 1
@@ -950,7 +950,7 @@ value=D9
 C 44400 50400 1 0 0 io-1.sym
 {
 T 45300 50600 5 10 0 0 0 0 1
-net=ZORRO-D10:1
+net=ZORRO/D10:1
 T 44600 51000 5 10 0 0 0 0 1
 device=none
 T 45300 50500 5 10 1 1 0 1 1
@@ -959,7 +959,7 @@ value=D10
 C 43800 50100 1 0 0 io-1.sym
 {
 T 44700 50300 5 10 0 0 0 0 1
-net=ZORRO-D11:1
+net=ZORRO/D11:1
 T 44000 50700 5 10 0 0 0 0 1
 device=none
 T 44700 50200 5 10 1 1 0 1 1
@@ -968,7 +968,7 @@ value=D11
 C 44400 49800 1 0 0 io-1.sym
 {
 T 45300 50000 5 10 0 0 0 0 1
-net=ZORRO-D12:1
+net=ZORRO/D12:1
 T 44600 50400 5 10 0 0 0 0 1
 device=none
 T 45300 49900 5 10 1 1 0 1 1
@@ -977,7 +977,7 @@ value=D12
 C 43800 49500 1 0 0 io-1.sym
 {
 T 44700 49700 5 10 0 0 0 0 1
-net=ZORRO-D13:1
+net=ZORRO/D13:1
 T 44000 50100 5 10 0 0 0 0 1
 device=none
 T 44700 49600 5 10 1 1 0 1 1
@@ -986,7 +986,7 @@ value=D13
 C 44400 49200 1 0 0 io-1.sym
 {
 T 45300 49400 5 10 0 0 0 0 1
-net=ZORRO-D14:1
+net=ZORRO/D14:1
 T 44600 49800 5 10 0 0 0 0 1
 device=none
 T 45300 49300 5 10 1 1 0 1 1
@@ -995,7 +995,7 @@ value=D14
 C 43800 48900 1 0 0 io-1.sym
 {
 T 44700 49100 5 10 0 0 0 0 1
-net=ZORRO-D15:1
+net=ZORRO/D15:1
 T 44000 49500 5 10 0 0 0 0 1
 device=none
 T 44700 49000 5 10 1 1 0 1 1
@@ -1218,11 +1218,11 @@ pintype=io
 C 44400 45000 1 0 0 output-2.sym
 {
 T 45300 45200 5 10 0 0 0 0 1
-net=ZORRO-/RST:1
+net=ZORRO/RST#:1
 T 44600 45700 5 10 0 0 0 0 1
 device=none
 T 45300 45100 5 10 1 1 0 1 1
-value=/RST
+value=RST#
 }
 N 42000 45100 44400 45100 4
 {
@@ -1253,7 +1253,7 @@ N 81500 63400 81900 63400 4
 C 83400 62100 1 0 1 input-2.sym
 {
 T 83400 62300 5 10 0 0 0 6 1
-net=ZORRO-A1:1
+net=ZORRO/A1:1
 T 82800 62800 5 10 0 0 0 6 1
 device=none
 T 82900 62200 5 10 1 1 0 1 1
@@ -1262,7 +1262,7 @@ value=A1
 C 83800 61800 1 0 1 input-2.sym
 {
 T 83800 62000 5 10 0 0 0 6 1
-net=ZORRO-A2:1
+net=ZORRO/A2:1
 T 83200 62500 5 10 0 0 0 6 1
 device=none
 T 83300 61900 5 10 1 1 0 1 1
@@ -1271,7 +1271,7 @@ value=A2
 C 83400 61500 1 0 1 input-2.sym
 {
 T 83400 61700 5 10 0 0 0 6 1
-net=ZORRO-A3:1
+net=ZORRO/A3:1
 T 82800 62200 5 10 0 0 0 6 1
 device=none
 T 82900 61600 5 10 1 1 0 1 1
@@ -1280,7 +1280,7 @@ value=A3
 C 83800 61200 1 0 1 input-2.sym
 {
 T 83800 61400 5 10 0 0 0 6 1
-net=ZORRO-A4:1
+net=ZORRO/A4:1
 T 83200 61900 5 10 0 0 0 6 1
 device=none
 T 83300 61300 5 10 1 1 0 1 1
@@ -1289,7 +1289,7 @@ value=A4
 C 83400 60900 1 0 1 input-2.sym
 {
 T 83400 61100 5 10 0 0 0 6 1
-net=ZORRO-A5:1
+net=ZORRO/A5:1
 T 82800 61600 5 10 0 0 0 6 1
 device=none
 T 82900 61000 5 10 1 1 0 1 1
@@ -1298,7 +1298,7 @@ value=A5
 C 83800 60600 1 0 1 input-2.sym
 {
 T 83800 60800 5 10 0 0 0 6 1
-net=ZORRO-A6:1
+net=ZORRO/A6:1
 T 83200 61300 5 10 0 0 0 6 1
 device=none
 T 83300 60700 5 10 1 1 0 1 1
@@ -1307,7 +1307,7 @@ value=A6
 C 83400 60300 1 0 1 input-2.sym
 {
 T 83400 60500 5 10 0 0 0 6 1
-net=ZORRO-A7:1
+net=ZORRO/A7:1
 T 82800 61000 5 10 0 0 0 6 1
 device=none
 T 82900 60400 5 10 1 1 0 1 1
@@ -1316,7 +1316,7 @@ value=A7
 C 83800 60000 1 0 1 input-2.sym
 {
 T 83800 60200 5 10 0 0 0 6 1
-net=ZORRO-A8:1
+net=ZORRO/A8:1
 T 83200 60700 5 10 0 0 0 6 1
 device=none
 T 83300 60100 5 10 1 1 0 1 1
@@ -1325,7 +1325,7 @@ value=A8
 C 83400 59700 1 0 1 input-2.sym
 {
 T 83400 59900 5 10 0 0 0 6 1
-net=ZORRO-A9:1
+net=ZORRO/A9:1
 T 82800 60400 5 10 0 0 0 6 1
 device=none
 T 82900 59800 5 10 1 1 0 1 1
@@ -1334,7 +1334,7 @@ value=A9
 C 83800 59400 1 0 1 input-2.sym
 {
 T 83800 59600 5 10 0 0 0 6 1
-net=ZORRO-A10:1
+net=ZORRO/A10:1
 T 83200 60100 5 10 0 0 0 6 1
 device=none
 T 83300 59500 5 10 1 1 0 1 1
@@ -1345,7 +1345,7 @@ C 83400 59100 1 0 1 input-2.sym
 T 82900 59200 5 10 1 1 0 1 1
 value=A11
 T 83400 59300 5 10 0 0 0 6 1
-net=ZORRO-A11:1
+net=ZORRO/A11:1
 T 82800 59800 5 10 0 0 0 6 1
 device=none
 }
@@ -1354,14 +1354,14 @@ C 83800 58800 1 0 1 input-2.sym
 T 83300 58900 5 10 1 1 0 1 1
 value=A12
 T 83800 59000 5 10 0 0 0 6 1
-net=ZORRO-A12:1
+net=ZORRO/A12:1
 T 83200 59500 5 10 0 0 0 6 1
 device=none
 }
 C 83400 58500 1 0 1 input-2.sym
 {
 T 83400 58700 5 10 0 0 0 6 1
-net=ZORRO-A13:1
+net=ZORRO/A13:1
 T 82800 59200 5 10 0 0 0 6 1
 device=none
 T 82900 58600 5 10 1 1 0 1 1
@@ -1370,7 +1370,7 @@ value=A13
 C 83800 58200 1 0 1 input-2.sym
 {
 T 83800 58400 5 10 0 0 0 6 1
-net=ZORRO-A14:1
+net=ZORRO/A14:1
 T 83200 58900 5 10 0 0 0 6 1
 device=none
 T 83300 58300 5 10 1 1 0 1 1
@@ -1379,7 +1379,7 @@ value=A14
 C 83400 57900 1 0 1 input-2.sym
 {
 T 83400 58100 5 10 0 0 0 6 1
-net=ZORRO-A15:1
+net=ZORRO/A15:1
 T 82800 58600 5 10 0 0 0 6 1
 device=none
 T 82900 58000 5 10 1 1 0 1 1
@@ -1388,7 +1388,7 @@ value=A15
 C 83800 57600 1 0 1 input-2.sym
 {
 T 83800 57800 5 10 0 0 0 6 1
-net=ZORRO-A16:1
+net=ZORRO/A16:1
 T 83200 58300 5 10 0 0 0 6 1
 device=none
 T 83300 57700 5 10 1 1 0 1 1
@@ -1397,7 +1397,7 @@ value=A16
 C 83400 57300 1 0 1 input-2.sym
 {
 T 83400 57500 5 10 0 0 0 6 1
-net=ZORRO-A17:1
+net=ZORRO/A17:1
 T 82800 58000 5 10 0 0 0 6 1
 device=none
 T 82900 57400 5 10 1 1 0 1 1
@@ -1406,7 +1406,7 @@ value=A17
 C 83800 57000 1 0 1 input-2.sym
 {
 T 83800 57200 5 10 0 0 0 6 1
-net=ZORRO-A18:1
+net=ZORRO/A18:1
 T 83200 57700 5 10 0 0 0 6 1
 device=none
 T 83300 57100 5 10 1 1 0 1 1
@@ -1415,7 +1415,7 @@ value=A18
 C 83300 56700 1 0 1 input-2.sym
 {
 T 83300 56900 5 10 0 0 0 6 1
-net=CS-ROMH:1
+net=CS/ROMH:1
 T 82700 57400 5 10 0 0 0 6 1
 device=none
 T 82800 56800 5 10 1 1 0 1 1
@@ -1443,7 +1443,7 @@ N 81500 56800 81900 56800 4
 C 77900 68700 1 0 1 io-1.sym
 {
 T 77000 68900 5 10 0 0 0 6 1
-net=ZORRO-D0:1
+net=ZORRO/D0:1
 T 77700 69300 5 10 0 0 0 6 1
 device=none
 T 77000 68800 5 10 1 1 0 7 1
@@ -1452,7 +1452,7 @@ value=D0
 C 78500 68400 1 0 1 io-1.sym
 {
 T 77600 68600 5 10 0 0 0 6 1
-net=ZORRO-D1:1
+net=ZORRO/D1:1
 T 78300 69000 5 10 0 0 0 6 1
 device=none
 T 77600 68500 5 10 1 1 0 7 1
@@ -1461,7 +1461,7 @@ value=D1
 C 77900 68100 1 0 1 io-1.sym
 {
 T 77000 68300 5 10 0 0 0 6 1
-net=ZORRO-D2:1
+net=ZORRO/D2:1
 T 77700 68700 5 10 0 0 0 6 1
 device=none
 T 77000 68200 5 10 1 1 0 7 1
@@ -1470,7 +1470,7 @@ value=D2
 C 78500 67800 1 0 1 io-1.sym
 {
 T 77600 68000 5 10 0 0 0 6 1
-net=ZORRO-D3:1
+net=ZORRO/D3:1
 T 78300 68400 5 10 0 0 0 6 1
 device=none
 T 77600 67900 5 10 1 1 0 7 1
@@ -1479,7 +1479,7 @@ value=D3
 C 77900 67500 1 0 1 io-1.sym
 {
 T 77000 67700 5 10 0 0 0 6 1
-net=ZORRO-D4:1
+net=ZORRO/D4:1
 T 77700 68100 5 10 0 0 0 6 1
 device=none
 T 77000 67600 5 10 1 1 0 7 1
@@ -1488,7 +1488,7 @@ value=D4
 C 78500 67200 1 0 1 io-1.sym
 {
 T 77600 67400 5 10 0 0 0 6 1
-net=ZORRO-D5:1
+net=ZORRO/D5:1
 T 78300 67800 5 10 0 0 0 6 1
 device=none
 T 77600 67300 5 10 1 1 0 7 1
@@ -1497,7 +1497,7 @@ value=D5
 C 77900 66900 1 0 1 io-1.sym
 {
 T 77000 67100 5 10 0 0 0 6 1
-net=ZORRO-D6:1
+net=ZORRO/D6:1
 T 77700 67500 5 10 0 0 0 6 1
 device=none
 T 77000 67000 5 10 1 1 0 7 1
@@ -1506,7 +1506,7 @@ value=D6
 C 78500 66600 1 0 1 io-1.sym
 {
 T 77600 66800 5 10 0 0 0 6 1
-net=ZORRO-D7:1
+net=ZORRO/D7:1
 T 78300 67200 5 10 0 0 0 6 1
 device=none
 T 77600 66700 5 10 1 1 0 7 1
@@ -1515,7 +1515,7 @@ value=D7
 C 77900 62100 1 0 1 io-1.sym
 {
 T 77000 62300 5 10 0 0 0 6 1
-net=ZORRO-D8:1
+net=ZORRO/D8:1
 T 77700 62700 5 10 0 0 0 6 1
 device=none
 T 77000 62200 5 10 1 1 0 7 1
@@ -1524,7 +1524,7 @@ value=D8
 C 78500 61800 1 0 1 io-1.sym
 {
 T 77600 62000 5 10 0 0 0 6 1
-net=ZORRO-D9:1
+net=ZORRO/D9:1
 T 78300 62400 5 10 0 0 0 6 1
 device=none
 T 77600 61900 5 10 1 1 0 7 1
@@ -1533,7 +1533,7 @@ value=D9
 C 77900 61500 1 0 1 io-1.sym
 {
 T 77000 61700 5 10 0 0 0 6 1
-net=ZORRO-D10:1
+net=ZORRO/D10:1
 T 77700 62100 5 10 0 0 0 6 1
 device=none
 T 77000 61600 5 10 1 1 0 7 1
@@ -1542,7 +1542,7 @@ value=D10
 C 78500 61200 1 0 1 io-1.sym
 {
 T 77600 61400 5 10 0 0 0 6 1
-net=ZORRO-D11:1
+net=ZORRO/D11:1
 T 78300 61800 5 10 0 0 0 6 1
 device=none
 T 77600 61300 5 10 1 1 0 7 1
@@ -1551,7 +1551,7 @@ value=D11
 C 77900 60900 1 0 1 io-1.sym
 {
 T 77000 61100 5 10 0 0 0 6 1
-net=ZORRO-D12:1
+net=ZORRO/D12:1
 T 77700 61500 5 10 0 0 0 6 1
 device=none
 T 77000 61000 5 10 1 1 0 7 1
@@ -1560,7 +1560,7 @@ value=D12
 C 78500 60600 1 0 1 io-1.sym
 {
 T 77600 60800 5 10 0 0 0 6 1
-net=ZORRO-D13:1
+net=ZORRO/D13:1
 T 78300 61200 5 10 0 0 0 6 1
 device=none
 T 77600 60700 5 10 1 1 0 7 1
@@ -1569,7 +1569,7 @@ value=D13
 C 77900 60300 1 0 1 io-1.sym
 {
 T 77000 60500 5 10 0 0 0 6 1
-net=ZORRO-D14:1
+net=ZORRO/D14:1
 T 77700 60900 5 10 0 0 0 6 1
 device=none
 T 77000 60400 5 10 1 1 0 7 1
@@ -1578,7 +1578,7 @@ value=D14
 C 78500 60000 1 0 1 io-1.sym
 {
 T 77600 60200 5 10 0 0 0 6 1
-net=ZORRO-D15:1
+net=ZORRO/D15:1
 T 78300 60600 5 10 0 0 0 6 1
 device=none
 T 77600 60100 5 10 1 1 0 7 1
@@ -1603,31 +1603,31 @@ N 77900 68800 78900 68800 4
 C 77100 64300 1 0 0 input-2.sym
 {
 T 77100 64500 5 10 0 0 0 0 1
-net=CS-/ROMCS:1
+net=CS/ROMCS#:1
 T 77700 65000 5 10 0 0 0 0 1
 device=none
 T 77600 64400 5 10 1 1 0 7 1
-value=/ROMCS
+value=ROMCS#
 T 77100 64300 5 10 0 0 0 0 1
 netname=ROMCS
 }
 C 76600 64000 1 0 0 input-2.sym
 {
 T 76600 64200 5 10 0 0 0 0 1
-net=CTL-/OE:1
+net=CTL/OE#:1
 T 77200 64700 5 10 0 0 0 0 1
 device=none
 T 77100 64100 5 10 1 1 0 7 1
-value=/OE
+value=OE#
 }
 C 77100 63700 1 0 0 input-2.sym
 {
 T 77100 63900 5 10 0 0 0 0 1
-net=CTL-/WE:1
+net=CTL/WE#:1
 T 77700 64400 5 10 0 0 0 0 1
 device=none
 T 77600 63800 5 10 1 1 0 7 1
-value=/WE
+value=WE#
 }
 N 78500 64400 79000 64400 4
 N 78000 64100 79000 64100 4
@@ -1635,35 +1635,35 @@ N 78500 63800 79000 63800 4
 C 77100 57700 1 0 0 input-2.sym
 {
 T 77100 57900 5 10 0 0 0 0 1
-net=CS-/ROMCS:1
+net=CS/ROMCS#:1
 T 77700 58400 5 10 0 0 0 0 1
 device=none
 T 77600 57800 5 10 1 1 0 7 1
-value=/ROMCS
+value=ROMCS#
 }
 C 76600 57400 1 0 0 input-2.sym
 {
 T 76600 57600 5 10 0 0 0 0 1
-net=CTL-/OE:1
+net=CTL/OE#:1
 T 77200 58100 5 10 0 0 0 0 1
 device=none
 T 77100 57500 5 10 1 1 0 7 1
-value=/OE
+value=OE#
 }
 C 77100 57100 1 0 0 input-2.sym
 {
 T 77100 57300 5 10 0 0 0 0 1
-net=CTL-/WE:1
+net=CTL/WE#:1
 T 77700 57800 5 10 0 0 0 0 1
 device=none
 T 77600 57200 5 10 1 1 0 7 1
-value=/WE
+value=WE#
 }
 N 78500 57800 79000 57800 4
 N 78000 57500 79000 57500 4
 N 78500 57200 79000 57200 4
 T 79400 70600 9 10 1 0 0 0 1
-Flash/ROM (512Kx8)
+FlashROM# (512Kx8)
 N 42000 65500 42000 68200 4
 N 42000 64900 42000 65200 4
 C 60900 48700 1 0 1 sram-128Kx8-jedec.sym
@@ -1687,7 +1687,7 @@ footprint=DIP32
 C 62700 53500 1 0 1 input-2.sym
 {
 T 62700 53700 5 10 0 0 0 6 1
-net=ZORRO-A1:1
+net=ZORRO/A1:1
 T 62100 54200 5 10 0 0 0 6 1
 device=none
 T 62200 53600 5 10 1 1 0 1 1
@@ -1696,7 +1696,7 @@ value=A1
 C 63100 53200 1 0 1 input-2.sym
 {
 T 63100 53400 5 10 0 0 0 6 1
-net=ZORRO-A2:1
+net=ZORRO/A2:1
 T 62500 53900 5 10 0 0 0 6 1
 device=none
 T 62600 53300 5 10 1 1 0 1 1
@@ -1705,7 +1705,7 @@ value=A2
 C 62700 52900 1 0 1 input-2.sym
 {
 T 62700 53100 5 10 0 0 0 6 1
-net=ZORRO-A3:1
+net=ZORRO/A3:1
 T 62100 53600 5 10 0 0 0 6 1
 device=none
 T 62200 53000 5 10 1 1 0 1 1
@@ -1714,7 +1714,7 @@ value=A3
 C 63100 52600 1 0 1 input-2.sym
 {
 T 63100 52800 5 10 0 0 0 6 1
-net=ZORRO-A4:1
+net=ZORRO/A4:1
 T 62500 53300 5 10 0 0 0 6 1
 device=none
 T 62600 52700 5 10 1 1 0 1 1
@@ -1723,7 +1723,7 @@ value=A4
 C 62700 52300 1 0 1 input-2.sym
 {
 T 62700 52500 5 10 0 0 0 6 1
-net=ZORRO-A5:1
+net=ZORRO/A5:1
 T 62100 53000 5 10 0 0 0 6 1
 device=none
 T 62200 52400 5 10 1 1 0 1 1
@@ -1732,7 +1732,7 @@ value=A5
 C 63100 52000 1 0 1 input-2.sym
 {
 T 63100 52200 5 10 0 0 0 6 1
-net=ZORRO-A6:1
+net=ZORRO/A6:1
 T 62500 52700 5 10 0 0 0 6 1
 device=none
 T 62600 52100 5 10 1 1 0 1 1
@@ -1741,7 +1741,7 @@ value=A6
 C 62700 51700 1 0 1 input-2.sym
 {
 T 62700 51900 5 10 0 0 0 6 1
-net=ZORRO-A7:1
+net=ZORRO/A7:1
 T 62100 52400 5 10 0 0 0 6 1
 device=none
 T 62200 51800 5 10 1 1 0 1 1
@@ -1750,7 +1750,7 @@ value=A7
 C 63100 51400 1 0 1 input-2.sym
 {
 T 63100 51600 5 10 0 0 0 6 1
-net=ZORRO-A8:1
+net=ZORRO/A8:1
 T 62500 52100 5 10 0 0 0 6 1
 device=none
 T 62600 51500 5 10 1 1 0 1 1
@@ -1759,7 +1759,7 @@ value=A8
 C 62700 51100 1 0 1 input-2.sym
 {
 T 62700 51300 5 10 0 0 0 6 1
-net=ZORRO-A9:1
+net=ZORRO/A9:1
 T 62100 51800 5 10 0 0 0 6 1
 device=none
 T 62200 51200 5 10 1 1 0 1 1
@@ -1768,7 +1768,7 @@ value=A9
 C 63100 50800 1 0 1 input-2.sym
 {
 T 63100 51000 5 10 0 0 0 6 1
-net=ZORRO-A10:1
+net=ZORRO/A10:1
 T 62500 51500 5 10 0 0 0 6 1
 device=none
 T 62600 50900 5 10 1 1 0 1 1
@@ -1779,7 +1779,7 @@ C 62700 50500 1 0 1 input-2.sym
 T 62200 50600 5 10 1 1 0 1 1
 value=A11
 T 62700 50700 5 10 0 0 0 6 1
-net=ZORRO-A11:1
+net=ZORRO/A11:1
 T 62100 51200 5 10 0 0 0 6 1
 device=none
 }
@@ -1788,14 +1788,14 @@ C 63100 50200 1 0 1 input-2.sym
 T 62600 50300 5 10 1 1 0 1 1
 value=A12
 T 63100 50400 5 10 0 0 0 6 1
-net=ZORRO-A12:1
+net=ZORRO/A12:1
 T 62500 50900 5 10 0 0 0 6 1
 device=none
 }
 C 62700 49900 1 0 1 input-2.sym
 {
 T 62700 50100 5 10 0 0 0 6 1
-net=ZORRO-A13:1
+net=ZORRO/A13:1
 T 62100 50600 5 10 0 0 0 6 1
 device=none
 T 62200 50000 5 10 1 1 0 1 1
@@ -1804,7 +1804,7 @@ value=A13
 C 63100 49600 1 0 1 input-2.sym
 {
 T 63100 49800 5 10 0 0 0 6 1
-net=ZORRO-A14:1
+net=ZORRO/A14:1
 T 62500 50300 5 10 0 0 0 6 1
 device=none
 T 62600 49700 5 10 1 1 0 1 1
@@ -1813,7 +1813,7 @@ value=A14
 C 62700 49300 1 0 1 input-2.sym
 {
 T 62700 49500 5 10 0 0 0 6 1
-net=ZORRO-A15:1
+net=ZORRO/A15:1
 T 62100 50000 5 10 0 0 0 6 1
 device=none
 T 62200 49400 5 10 1 1 0 1 1
@@ -1822,7 +1822,7 @@ value=A15
 C 63100 49000 1 0 1 input-2.sym
 {
 T 63100 49200 5 10 0 0 0 6 1
-net=ZORRO-A16:1
+net=ZORRO/A16:1
 T 62500 49700 5 10 0 0 0 6 1
 device=none
 T 62600 49100 5 10 1 1 0 1 1
@@ -1831,7 +1831,7 @@ value=A16
 C 62700 48700 1 0 1 input-2.sym
 {
 T 62700 48900 5 10 0 0 0 6 1
-net=ZORRO-A17:1
+net=ZORRO/A17:1
 T 62100 49400 5 10 0 0 0 6 1
 device=none
 T 62200 48800 5 10 1 1 0 1 1
@@ -1857,7 +1857,7 @@ N 60900 48800 61300 48800 4
 C 62700 47400 1 0 1 input-2.sym
 {
 T 62700 47600 5 10 0 0 0 6 1
-net=ZORRO-A1:1
+net=ZORRO/A1:1
 T 62100 48100 5 10 0 0 0 6 1
 device=none
 T 62200 47500 5 10 1 1 0 1 1
@@ -1866,7 +1866,7 @@ value=A1
 C 63100 47100 1 0 1 input-2.sym
 {
 T 63100 47300 5 10 0 0 0 6 1
-net=ZORRO-A2:1
+net=ZORRO/A2:1
 T 62500 47800 5 10 0 0 0 6 1
 device=none
 T 62600 47200 5 10 1 1 0 1 1
@@ -1875,7 +1875,7 @@ value=A2
 C 62700 46800 1 0 1 input-2.sym
 {
 T 62700 47000 5 10 0 0 0 6 1
-net=ZORRO-A3:1
+net=ZORRO/A3:1
 T 62100 47500 5 10 0 0 0 6 1
 device=none
 T 62200 46900 5 10 1 1 0 1 1
@@ -1884,7 +1884,7 @@ value=A3
 C 63100 46500 1 0 1 input-2.sym
 {
 T 63100 46700 5 10 0 0 0 6 1
-net=ZORRO-A4:1
+net=ZORRO/A4:1
 T 62500 47200 5 10 0 0 0 6 1
 device=none
 T 62600 46600 5 10 1 1 0 1 1
@@ -1893,7 +1893,7 @@ value=A4
 C 62700 46200 1 0 1 input-2.sym
 {
 T 62700 46400 5 10 0 0 0 6 1
-net=ZORRO-A5:1
+net=ZORRO/A5:1
 T 62100 46900 5 10 0 0 0 6 1
 device=none
 T 62200 46300 5 10 1 1 0 1 1
@@ -1902,7 +1902,7 @@ value=A5
 C 63100 45900 1 0 1 input-2.sym
 {
 T 63100 46100 5 10 0 0 0 6 1
-net=ZORRO-A6:1
+net=ZORRO/A6:1
 T 62500 46600 5 10 0 0 0 6 1
 device=none
 T 62600 46000 5 10 1 1 0 1 1
@@ -1911,7 +1911,7 @@ value=A6
 C 62700 45600 1 0 1 input-2.sym
 {
 T 62700 45800 5 10 0 0 0 6 1
-net=ZORRO-A7:1
+net=ZORRO/A7:1
 T 62100 46300 5 10 0 0 0 6 1
 device=none
 T 62200 45700 5 10 1 1 0 1 1
@@ -1920,7 +1920,7 @@ value=A7
 C 63100 45300 1 0 1 input-2.sym
 {
 T 63100 45500 5 10 0 0 0 6 1
-net=ZORRO-A8:1
+net=ZORRO/A8:1
 T 62500 46000 5 10 0 0 0 6 1
 device=none
 T 62600 45400 5 10 1 1 0 1 1
@@ -1929,7 +1929,7 @@ value=A8
 C 62700 45000 1 0 1 input-2.sym
 {
 T 62700 45200 5 10 0 0 0 6 1
-net=ZORRO-A9:1
+net=ZORRO/A9:1
 T 62100 45700 5 10 0 0 0 6 1
 device=none
 T 62200 45100 5 10 1 1 0 1 1
@@ -1938,7 +1938,7 @@ value=A9
 C 63100 44700 1 0 1 input-2.sym
 {
 T 63100 44900 5 10 0 0 0 6 1
-net=ZORRO-A10:1
+net=ZORRO/A10:1
 T 62500 45400 5 10 0 0 0 6 1
 device=none
 T 62600 44800 5 10 1 1 0 1 1
@@ -1949,7 +1949,7 @@ C 62700 44400 1 0 1 input-2.sym
 T 62200 44500 5 10 1 1 0 1 1
 value=A11
 T 62700 44600 5 10 0 0 0 6 1
-net=ZORRO-A11:1
+net=ZORRO/A11:1
 T 62100 45100 5 10 0 0 0 6 1
 device=none
 }
@@ -1958,14 +1958,14 @@ C 63100 44100 1 0 1 input-2.sym
 T 62600 44200 5 10 1 1 0 1 1
 value=A12
 T 63100 44300 5 10 0 0 0 6 1
-net=ZORRO-A12:1
+net=ZORRO/A12:1
 T 62500 44800 5 10 0 0 0 6 1
 device=none
 }
 C 62700 43800 1 0 1 input-2.sym
 {
 T 62700 44000 5 10 0 0 0 6 1
-net=ZORRO-A13:1
+net=ZORRO/A13:1
 T 62100 44500 5 10 0 0 0 6 1
 device=none
 T 62200 43900 5 10 1 1 0 1 1
@@ -1974,7 +1974,7 @@ value=A13
 C 63100 43500 1 0 1 input-2.sym
 {
 T 63100 43700 5 10 0 0 0 6 1
-net=ZORRO-A14:1
+net=ZORRO/A14:1
 T 62500 44200 5 10 0 0 0 6 1
 device=none
 T 62600 43600 5 10 1 1 0 1 1
@@ -1983,7 +1983,7 @@ value=A14
 C 62700 43200 1 0 1 input-2.sym
 {
 T 62700 43400 5 10 0 0 0 6 1
-net=ZORRO-A15:1
+net=ZORRO/A15:1
 T 62100 43900 5 10 0 0 0 6 1
 device=none
 T 62200 43300 5 10 1 1 0 1 1
@@ -1992,7 +1992,7 @@ value=A15
 C 63100 42900 1 0 1 input-2.sym
 {
 T 63100 43100 5 10 0 0 0 6 1
-net=ZORRO-A16:1
+net=ZORRO/A16:1
 T 62500 43600 5 10 0 0 0 6 1
 device=none
 T 62600 43000 5 10 1 1 0 1 1
@@ -2001,7 +2001,7 @@ value=A16
 C 62700 42600 1 0 1 input-2.sym
 {
 T 62700 42800 5 10 0 0 0 6 1
-net=ZORRO-A17:1
+net=ZORRO/A17:1
 T 62100 43300 5 10 0 0 0 6 1
 device=none
 T 62200 42700 5 10 1 1 0 1 1
@@ -2027,7 +2027,7 @@ N 60900 42700 61300 42700 4
 C 57200 53500 1 0 1 io-1.sym
 {
 T 56300 53700 5 10 0 0 0 6 1
-net=ZORRO-D0:1
+net=ZORRO/D0:1
 T 57000 54100 5 10 0 0 0 6 1
 device=none
 T 56300 53600 5 10 1 1 0 7 1
@@ -2036,7 +2036,7 @@ value=D0
 C 57800 53200 1 0 1 io-1.sym
 {
 T 56900 53400 5 10 0 0 0 6 1
-net=ZORRO-D1:1
+net=ZORRO/D1:1
 T 57600 53800 5 10 0 0 0 6 1
 device=none
 T 56900 53300 5 10 1 1 0 7 1
@@ -2045,7 +2045,7 @@ value=D1
 C 57200 52900 1 0 1 io-1.sym
 {
 T 56300 53100 5 10 0 0 0 6 1
-net=ZORRO-D2:1
+net=ZORRO/D2:1
 T 57000 53500 5 10 0 0 0 6 1
 device=none
 T 56300 53000 5 10 1 1 0 7 1
@@ -2054,7 +2054,7 @@ value=D2
 C 57800 52600 1 0 1 io-1.sym
 {
 T 56900 52800 5 10 0 0 0 6 1
-net=ZORRO-D3:1
+net=ZORRO/D3:1
 T 57600 53200 5 10 0 0 0 6 1
 device=none
 T 56900 52700 5 10 1 1 0 7 1
@@ -2063,7 +2063,7 @@ value=D3
 C 57200 52300 1 0 1 io-1.sym
 {
 T 56300 52500 5 10 0 0 0 6 1
-net=ZORRO-D4:1
+net=ZORRO/D4:1
 T 57000 52900 5 10 0 0 0 6 1
 device=none
 T 56300 52400 5 10 1 1 0 7 1
@@ -2072,7 +2072,7 @@ value=D4
 C 57800 52000 1 0 1 io-1.sym
 {
 T 56900 52200 5 10 0 0 0 6 1
-net=ZORRO-D5:1
+net=ZORRO/D5:1
 T 57600 52600 5 10 0 0 0 6 1
 device=none
 T 56900 52100 5 10 1 1 0 7 1
@@ -2081,7 +2081,7 @@ value=D5
 C 57200 51700 1 0 1 io-1.sym
 {
 T 56300 51900 5 10 0 0 0 6 1
-net=ZORRO-D6:1
+net=ZORRO/D6:1
 T 57000 52300 5 10 0 0 0 6 1
 device=none
 T 56300 51800 5 10 1 1 0 7 1
@@ -2090,7 +2090,7 @@ value=D6
 C 57800 51400 1 0 1 io-1.sym
 {
 T 56900 51600 5 10 0 0 0 6 1
-net=ZORRO-D7:1
+net=ZORRO/D7:1
 T 57600 52000 5 10 0 0 0 6 1
 device=none
 T 56900 51500 5 10 1 1 0 7 1
@@ -2099,7 +2099,7 @@ value=D7
 C 57200 47400 1 0 1 io-1.sym
 {
 T 56300 47600 5 10 0 0 0 6 1
-net=ZORRO-D8:1
+net=ZORRO/D8:1
 T 57000 48000 5 10 0 0 0 6 1
 device=none
 T 56300 47500 5 10 1 1 0 7 1
@@ -2108,7 +2108,7 @@ value=D8
 C 57800 47100 1 0 1 io-1.sym
 {
 T 56900 47300 5 10 0 0 0 6 1
-net=ZORRO-D9:1
+net=ZORRO/D9:1
 T 57600 47700 5 10 0 0 0 6 1
 device=none
 T 56900 47200 5 10 1 1 0 7 1
@@ -2117,7 +2117,7 @@ value=D9
 C 57200 46800 1 0 1 io-1.sym
 {
 T 56300 47000 5 10 0 0 0 6 1
-net=ZORRO-D10:1
+net=ZORRO/D10:1
 T 57000 47400 5 10 0 0 0 6 1
 device=none
 T 56300 46900 5 10 1 1 0 7 1
@@ -2126,7 +2126,7 @@ value=D10
 C 57800 46500 1 0 1 io-1.sym
 {
 T 56900 46700 5 10 0 0 0 6 1
-net=ZORRO-D11:1
+net=ZORRO/D11:1
 T 57600 47100 5 10 0 0 0 6 1
 device=none
 T 56900 46600 5 10 1 1 0 7 1
@@ -2135,7 +2135,7 @@ value=D11
 C 57200 46200 1 0 1 io-1.sym
 {
 T 56300 46400 5 10 0 0 0 6 1
-net=ZORRO-D12:1
+net=ZORRO/D12:1
 T 57000 46800 5 10 0 0 0 6 1
 device=none
 T 56300 46300 5 10 1 1 0 7 1
@@ -2144,7 +2144,7 @@ value=D12
 C 57800 45900 1 0 1 io-1.sym
 {
 T 56900 46100 5 10 0 0 0 6 1
-net=ZORRO-D13:1
+net=ZORRO/D13:1
 T 57600 46500 5 10 0 0 0 6 1
 device=none
 T 56900 46000 5 10 1 1 0 7 1
@@ -2153,7 +2153,7 @@ value=D13
 C 57200 45600 1 0 1 io-1.sym
 {
 T 56300 45800 5 10 0 0 0 6 1
-net=ZORRO-D14:1
+net=ZORRO/D14:1
 T 57000 46200 5 10 0 0 0 6 1
 device=none
 T 56300 45700 5 10 1 1 0 7 1
@@ -2162,7 +2162,7 @@ value=D14
 C 57800 45300 1 0 1 io-1.sym
 {
 T 56900 45500 5 10 0 0 0 6 1
-net=ZORRO-D15:1
+net=ZORRO/D15:1
 T 57600 45900 5 10 0 0 0 6 1
 device=none
 T 56900 45400 5 10 1 1 0 7 1
@@ -2187,34 +2187,34 @@ N 57200 53600 58300 53600 4
 C 56500 49600 1 0 0 input-2.sym
 {
 T 56500 49800 5 10 0 0 0 0 1
-net=CTL-/OE:1
+net=CTL/OE#:1
 T 57100 50300 5 10 0 0 0 0 1
 device=none
 T 57000 49700 5 10 1 1 0 7 1
-value=/OE
+value=OE#
 }
 C 56500 49300 1 0 0 input-2.sym
 {
 T 56500 49500 5 10 0 0 0 0 1
-net=CTL-/WE:1
+net=CTL/WE#:1
 T 57100 50000 5 10 0 0 0 0 1
 device=none
 T 57000 49400 5 10 1 1 0 7 1
-value=/WE
+value=WE#
 }
 C 56500 49000 1 0 0 input-2.sym
 {
 T 56500 49200 5 10 0 0 0 0 1
-net=ZORRO-/UDS:1
+net=ZORRO/UDS#:1
 T 57100 49700 5 10 0 0 0 0 1
 device=none
 T 57000 49100 5 10 1 1 0 7 1
-value=/UDS
+value=UDS#
 }
 C 56500 48700 1 0 0 input-2.sym
 {
 T 56500 48900 5 10 0 0 0 0 1
-net=CS-RAMCS0:1
+net=CS/RAMCS0:1
 T 57100 49400 5 10 0 0 0 0 1
 device=none
 T 57000 48800 5 10 1 1 0 7 1
@@ -2227,27 +2227,27 @@ N 57900 48800 58300 48800 4
 C 56500 43500 1 0 0 input-2.sym
 {
 T 57000 43600 5 10 1 1 0 7 1
-value=/OE
+value=OE#
 T 56500 43700 5 10 0 0 0 0 1
-net=CTL-/OE:1
+net=CTL/OE#:1
 T 57100 44200 5 10 0 0 0 0 1
 device=none
 }
 C 56500 43200 1 0 0 input-2.sym
 {
 T 57000 43300 5 10 1 1 0 7 1
-value=/WE
+value=WE#
 T 56500 43400 5 10 0 0 0 0 1
-net=CTL-/WE:1
+net=CTL/WE#:1
 T 57100 43900 5 10 0 0 0 0 1
 device=none
 }
 C 56500 42900 1 0 0 input-2.sym
 {
 T 57000 43000 5 10 1 1 0 7 1
-value=/LDS
+value=LDS#
 T 56500 43100 5 10 0 0 0 0 1
-net=ZORRO-/LDS:1
+net=ZORRO/LDS#:1
 T 57100 43600 5 10 0 0 0 0 1
 device=none
 }
@@ -2256,7 +2256,7 @@ C 56500 42600 1 0 0 input-2.sym
 T 57000 42700 5 10 1 1 0 7 1
 value=RAMCS0
 T 56500 42800 5 10 0 0 0 0 1
-net=CS-RAMCS0:1
+net=CS/RAMCS0:1
 T 57100 43300 5 10 0 0 0 0 1
 device=none
 }
@@ -2285,7 +2285,7 @@ footprint=DIP32
 C 70200 53500 1 0 1 input-2.sym
 {
 T 70200 53700 5 10 0 0 0 6 1
-net=ZORRO-A1:1
+net=ZORRO/A1:1
 T 69600 54200 5 10 0 0 0 6 1
 device=none
 T 69700 53600 5 10 1 1 0 1 1
@@ -2294,7 +2294,7 @@ value=A1
 C 70600 53200 1 0 1 input-2.sym
 {
 T 70600 53400 5 10 0 0 0 6 1
-net=ZORRO-A2:1
+net=ZORRO/A2:1
 T 70000 53900 5 10 0 0 0 6 1
 device=none
 T 70100 53300 5 10 1 1 0 1 1
@@ -2303,7 +2303,7 @@ value=A2
 C 70200 52900 1 0 1 input-2.sym
 {
 T 70200 53100 5 10 0 0 0 6 1
-net=ZORRO-A3:1
+net=ZORRO/A3:1
 T 69600 53600 5 10 0 0 0 6 1
 device=none
 T 69700 53000 5 10 1 1 0 1 1
@@ -2312,7 +2312,7 @@ value=A3
 C 70600 52600 1 0 1 input-2.sym
 {
 T 70600 52800 5 10 0 0 0 6 1
-net=ZORRO-A4:1
+net=ZORRO/A4:1
 T 70000 53300 5 10 0 0 0 6 1
 device=none
 T 70100 52700 5 10 1 1 0 1 1
@@ -2321,7 +2321,7 @@ value=A4
 C 70200 52300 1 0 1 input-2.sym
 {
 T 70200 52500 5 10 0 0 0 6 1
-net=ZORRO-A5:1
+net=ZORRO/A5:1
 T 69600 53000 5 10 0 0 0 6 1
 device=none
 T 69700 52400 5 10 1 1 0 1 1
@@ -2330,7 +2330,7 @@ value=A5
 C 70600 52000 1 0 1 input-2.sym
 {
 T 70600 52200 5 10 0 0 0 6 1
-net=ZORRO-A6:1
+net=ZORRO/A6:1
 T 70000 52700 5 10 0 0 0 6 1
 device=none
 T 70100 52100 5 10 1 1 0 1 1
@@ -2339,7 +2339,7 @@ value=A6
 C 70200 51700 1 0 1 input-2.sym
 {
 T 70200 51900 5 10 0 0 0 6 1
-net=ZORRO-A7:1
+net=ZORRO/A7:1
 T 69600 52400 5 10 0 0 0 6 1
 device=none
 T 69700 51800 5 10 1 1 0 1 1
@@ -2348,7 +2348,7 @@ value=A7
 C 70600 51400 1 0 1 input-2.sym
 {
 T 70600 51600 5 10 0 0 0 6 1
-net=ZORRO-A8:1
+net=ZORRO/A8:1
 T 70000 52100 5 10 0 0 0 6 1
 device=none
 T 70100 51500 5 10 1 1 0 1 1
@@ -2357,7 +2357,7 @@ value=A8
 C 70200 51100 1 0 1 input-2.sym
 {
 T 70200 51300 5 10 0 0 0 6 1
-net=ZORRO-A9:1
+net=ZORRO/A9:1
 T 69600 51800 5 10 0 0 0 6 1
 device=none
 T 69700 51200 5 10 1 1 0 1 1
@@ -2366,7 +2366,7 @@ value=A9
 C 70600 50800 1 0 1 input-2.sym
 {
 T 70600 51000 5 10 0 0 0 6 1
-net=ZORRO-A10:1
+net=ZORRO/A10:1
 T 70000 51500 5 10 0 0 0 6 1
 device=none
 T 70100 50900 5 10 1 1 0 1 1
@@ -2377,7 +2377,7 @@ C 70200 50500 1 0 1 input-2.sym
 T 69700 50600 5 10 1 1 0 1 1
 value=A11
 T 70200 50700 5 10 0 0 0 6 1
-net=ZORRO-A11:1
+net=ZORRO/A11:1
 T 69600 51200 5 10 0 0 0 6 1
 device=none
 }
@@ -2386,14 +2386,14 @@ C 70600 50200 1 0 1 input-2.sym
 T 70100 50300 5 10 1 1 0 1 1
 value=A12
 T 70600 50400 5 10 0 0 0 6 1
-net=ZORRO-A12:1
+net=ZORRO/A12:1
 T 70000 50900 5 10 0 0 0 6 1
 device=none
 }
 C 70200 49900 1 0 1 input-2.sym
 {
 T 70200 50100 5 10 0 0 0 6 1
-net=ZORRO-A13:1
+net=ZORRO/A13:1
 T 69600 50600 5 10 0 0 0 6 1
 device=none
 T 69700 50000 5 10 1 1 0 1 1
@@ -2402,7 +2402,7 @@ value=A13
 C 70600 49600 1 0 1 input-2.sym
 {
 T 70600 49800 5 10 0 0 0 6 1
-net=ZORRO-A14:1
+net=ZORRO/A14:1
 T 70000 50300 5 10 0 0 0 6 1
 device=none
 T 70100 49700 5 10 1 1 0 1 1
@@ -2411,7 +2411,7 @@ value=A14
 C 70200 49300 1 0 1 input-2.sym
 {
 T 70200 49500 5 10 0 0 0 6 1
-net=ZORRO-A15:1
+net=ZORRO/A15:1
 T 69600 50000 5 10 0 0 0 6 1
 device=none
 T 69700 49400 5 10 1 1 0 1 1
@@ -2420,7 +2420,7 @@ value=A15
 C 70600 49000 1 0 1 input-2.sym
 {
 T 70600 49200 5 10 0 0 0 6 1
-net=ZORRO-A16:1
+net=ZORRO/A16:1
 T 70000 49700 5 10 0 0 0 6 1
 device=none
 T 70100 49100 5 10 1 1 0 1 1
@@ -2429,7 +2429,7 @@ value=A16
 C 70200 48700 1 0 1 input-2.sym
 {
 T 70200 48900 5 10 0 0 0 6 1
-net=ZORRO-A17:1
+net=ZORRO/A17:1
 T 69600 49400 5 10 0 0 0 6 1
 device=none
 T 69700 48800 5 10 1 1 0 1 1
@@ -2455,7 +2455,7 @@ N 68400 48800 68800 48800 4
 C 70200 47400 1 0 1 input-2.sym
 {
 T 70200 47600 5 10 0 0 0 6 1
-net=ZORRO-A1:1
+net=ZORRO/A1:1
 T 69600 48100 5 10 0 0 0 6 1
 device=none
 T 69700 47500 5 10 1 1 0 1 1
@@ -2464,7 +2464,7 @@ value=A1
 C 70600 47100 1 0 1 input-2.sym
 {
 T 70600 47300 5 10 0 0 0 6 1
-net=ZORRO-A2:1
+net=ZORRO/A2:1
 T 70000 47800 5 10 0 0 0 6 1
 device=none
 T 70100 47200 5 10 1 1 0 1 1
@@ -2473,7 +2473,7 @@ value=A2
 C 70200 46800 1 0 1 input-2.sym
 {
 T 70200 47000 5 10 0 0 0 6 1
-net=ZORRO-A3:1
+net=ZORRO/A3:1
 T 69600 47500 5 10 0 0 0 6 1
 device=none
 T 69700 46900 5 10 1 1 0 1 1
@@ -2482,7 +2482,7 @@ value=A3
 C 70600 46500 1 0 1 input-2.sym
 {
 T 70600 46700 5 10 0 0 0 6 1
-net=ZORRO-A4:1
+net=ZORRO/A4:1
 T 70000 47200 5 10 0 0 0 6 1
 device=none
 T 70100 46600 5 10 1 1 0 1 1
@@ -2491,7 +2491,7 @@ value=A4
 C 70200 46200 1 0 1 input-2.sym
 {
 T 70200 46400 5 10 0 0 0 6 1
-net=ZORRO-A5:1
+net=ZORRO/A5:1
 T 69600 46900 5 10 0 0 0 6 1
 device=none
 T 69700 46300 5 10 1 1 0 1 1
@@ -2500,7 +2500,7 @@ value=A5
 C 70600 45900 1 0 1 input-2.sym
 {
 T 70600 46100 5 10 0 0 0 6 1
-net=ZORRO-A6:1
+net=ZORRO/A6:1
 T 70000 46600 5 10 0 0 0 6 1
 device=none
 T 70100 46000 5 10 1 1 0 1 1
@@ -2509,7 +2509,7 @@ value=A6
 C 70200 45600 1 0 1 input-2.sym
 {
 T 70200 45800 5 10 0 0 0 6 1
-net=ZORRO-A7:1
+net=ZORRO/A7:1
 T 69600 46300 5 10 0 0 0 6 1
 device=none
 T 69700 45700 5 10 1 1 0 1 1
@@ -2518,7 +2518,7 @@ value=A7
 C 70600 45300 1 0 1 input-2.sym
 {
 T 70600 45500 5 10 0 0 0 6 1
-net=ZORRO-A8:1
+net=ZORRO/A8:1
 T 70000 46000 5 10 0 0 0 6 1
 device=none
 T 70100 45400 5 10 1 1 0 1 1
@@ -2527,7 +2527,7 @@ value=A8
 C 70200 45000 1 0 1 input-2.sym
 {
 T 70200 45200 5 10 0 0 0 6 1
-net=ZORRO-A9:1
+net=ZORRO/A9:1
 T 69600 45700 5 10 0 0 0 6 1
 device=none
 T 69700 45100 5 10 1 1 0 1 1
@@ -2536,7 +2536,7 @@ value=A9
 C 70600 44700 1 0 1 input-2.sym
 {
 T 70600 44900 5 10 0 0 0 6 1
-net=ZORRO-A10:1
+net=ZORRO/A10:1
 T 70000 45400 5 10 0 0 0 6 1
 device=none
 T 70100 44800 5 10 1 1 0 1 1
@@ -2547,7 +2547,7 @@ C 70200 44400 1 0 1 input-2.sym
 T 69700 44500 5 10 1 1 0 1 1
 value=A11
 T 70200 44600 5 10 0 0 0 6 1
-net=ZORRO-A11:1
+net=ZORRO/A11:1
 T 69600 45100 5 10 0 0 0 6 1
 device=none
 }
@@ -2556,14 +2556,14 @@ C 70600 44100 1 0 1 input-2.sym
 T 70100 44200 5 10 1 1 0 1 1
 value=A12
 T 70600 44300 5 10 0 0 0 6 1
-net=ZORRO-A12:1
+net=ZORRO/A12:1
 T 70000 44800 5 10 0 0 0 6 1
 device=none
 }
 C 70200 43800 1 0 1 input-2.sym
 {
 T 70200 44000 5 10 0 0 0 6 1
-net=ZORRO-A13:1
+net=ZORRO/A13:1
 T 69600 44500 5 10 0 0 0 6 1
 device=none
 T 69700 43900 5 10 1 1 0 1 1
@@ -2572,7 +2572,7 @@ value=A13
 C 70600 43500 1 0 1 input-2.sym
 {
 T 70600 43700 5 10 0 0 0 6 1
-net=ZORRO-A14:1
+net=ZORRO/A14:1
 T 70000 44200 5 10 0 0 0 6 1
 device=none
 T 70100 43600 5 10 1 1 0 1 1
@@ -2581,7 +2581,7 @@ value=A14
 C 70200 43200 1 0 1 input-2.sym
 {
 T 70200 43400 5 10 0 0 0 6 1
-net=ZORRO-A15:1
+net=ZORRO/A15:1
 T 69600 43900 5 10 0 0 0 6 1
 device=none
 T 69700 43300 5 10 1 1 0 1 1
@@ -2590,7 +2590,7 @@ value=A15
 C 70600 42900 1 0 1 input-2.sym
 {
 T 70600 43100 5 10 0 0 0 6 1
-net=ZORRO-A16:1
+net=ZORRO/A16:1
 T 70000 43600 5 10 0 0 0 6 1
 device=none
 T 70100 43000 5 10 1 1 0 1 1
@@ -2599,7 +2599,7 @@ value=A16
 C 70200 42600 1 0 1 input-2.sym
 {
 T 70200 42800 5 10 0 0 0 6 1
-net=ZORRO-A17:1
+net=ZORRO/A17:1
 T 69600 43300 5 10 0 0 0 6 1
 device=none
 T 69700 42700 5 10 1 1 0 1 1
@@ -2625,7 +2625,7 @@ N 68400 42700 68800 42700 4
 C 64700 53500 1 0 1 io-1.sym
 {
 T 63800 53700 5 10 0 0 0 6 1
-net=ZORRO-D0:1
+net=ZORRO/D0:1
 T 64500 54100 5 10 0 0 0 6 1
 device=none
 T 63800 53600 5 10 1 1 0 7 1
@@ -2634,7 +2634,7 @@ value=D0
 C 65300 53200 1 0 1 io-1.sym
 {
 T 64400 53400 5 10 0 0 0 6 1
-net=ZORRO-D1:1
+net=ZORRO/D1:1
 T 65100 53800 5 10 0 0 0 6 1
 device=none
 T 64400 53300 5 10 1 1 0 7 1
@@ -2643,7 +2643,7 @@ value=D1
 C 64700 52900 1 0 1 io-1.sym
 {
 T 63800 53100 5 10 0 0 0 6 1
-net=ZORRO-D2:1
+net=ZORRO/D2:1
 T 64500 53500 5 10 0 0 0 6 1
 device=none
 T 63800 53000 5 10 1 1 0 7 1
@@ -2652,7 +2652,7 @@ value=D2
 C 65300 52600 1 0 1 io-1.sym
 {
 T 64400 52800 5 10 0 0 0 6 1
-net=ZORRO-D3:1
+net=ZORRO/D3:1
 T 65100 53200 5 10 0 0 0 6 1
 device=none
 T 64400 52700 5 10 1 1 0 7 1
@@ -2661,7 +2661,7 @@ value=D3
 C 64700 52300 1 0 1 io-1.sym
 {
 T 63800 52500 5 10 0 0 0 6 1
-net=ZORRO-D4:1
+net=ZORRO/D4:1
 T 64500 52900 5 10 0 0 0 6 1
 device=none
 T 63800 52400 5 10 1 1 0 7 1
@@ -2670,7 +2670,7 @@ value=D4
 C 65300 52000 1 0 1 io-1.sym
 {
 T 64400 52200 5 10 0 0 0 6 1
-net=ZORRO-D5:1
+net=ZORRO/D5:1
 T 65100 52600 5 10 0 0 0 6 1
 device=none
 T 64400 52100 5 10 1 1 0 7 1
@@ -2679,7 +2679,7 @@ value=D5
 C 64700 51700 1 0 1 io-1.sym
 {
 T 63800 51900 5 10 0 0 0 6 1
-net=ZORRO-D6:1
+net=ZORRO/D6:1
 T 64500 52300 5 10 0 0 0 6 1
 device=none
 T 63800 51800 5 10 1 1 0 7 1
@@ -2688,7 +2688,7 @@ value=D6
 C 65300 51400 1 0 1 io-1.sym
 {
 T 64400 51600 5 10 0 0 0 6 1
-net=ZORRO-D7:1
+net=ZORRO/D7:1
 T 65100 52000 5 10 0 0 0 6 1
 device=none
 T 64400 51500 5 10 1 1 0 7 1
@@ -2697,7 +2697,7 @@ value=D7
 C 64700 47400 1 0 1 io-1.sym
 {
 T 63800 47600 5 10 0 0 0 6 1
-net=ZORRO-D8:1
+net=ZORRO/D8:1
 T 64500 48000 5 10 0 0 0 6 1
 device=none
 T 63800 47500 5 10 1 1 0 7 1
@@ -2706,7 +2706,7 @@ value=D8
 C 65300 47100 1 0 1 io-1.sym
 {
 T 64400 47300 5 10 0 0 0 6 1
-net=ZORRO-D9:1
+net=ZORRO/D9:1
 T 65100 47700 5 10 0 0 0 6 1
 device=none
 T 64400 47200 5 10 1 1 0 7 1
@@ -2715,7 +2715,7 @@ value=D9
 C 64700 46800 1 0 1 io-1.sym
 {
 T 63800 47000 5 10 0 0 0 6 1
-net=ZORRO-D10:1
+net=ZORRO/D10:1
 T 64500 47400 5 10 0 0 0 6 1
 device=none
 T 63800 46900 5 10 1 1 0 7 1
@@ -2724,7 +2724,7 @@ value=D10
 C 65300 46500 1 0 1 io-1.sym
 {
 T 64400 46700 5 10 0 0 0 6 1
-net=ZORRO-D11:1
+net=ZORRO/D11:1
 T 65100 47100 5 10 0 0 0 6 1
 device=none
 T 64400 46600 5 10 1 1 0 7 1
@@ -2733,7 +2733,7 @@ value=D11
 C 64700 46200 1 0 1 io-1.sym
 {
 T 63800 46400 5 10 0 0 0 6 1
-net=ZORRO-D12:1
+net=ZORRO/D12:1
 T 64500 46800 5 10 0 0 0 6 1
 device=none
 T 63800 46300 5 10 1 1 0 7 1
@@ -2742,7 +2742,7 @@ value=D12
 C 65300 45900 1 0 1 io-1.sym
 {
 T 64400 46100 5 10 0 0 0 6 1
-net=ZORRO-D13:1
+net=ZORRO/D13:1
 T 65100 46500 5 10 0 0 0 6 1
 device=none
 T 64400 46000 5 10 1 1 0 7 1
@@ -2751,7 +2751,7 @@ value=D13
 C 64700 45600 1 0 1 io-1.sym
 {
 T 63800 45800 5 10 0 0 0 6 1
-net=ZORRO-D14:1
+net=ZORRO/D14:1
 T 64500 46200 5 10 0 0 0 6 1
 device=none
 T 63800 45700 5 10 1 1 0 7 1
@@ -2760,7 +2760,7 @@ value=D14
 C 65300 45300 1 0 1 io-1.sym
 {
 T 64400 45500 5 10 0 0 0 6 1
-net=ZORRO-D15:1
+net=ZORRO/D15:1
 T 65100 45900 5 10 0 0 0 6 1
 device=none
 T 64400 45400 5 10 1 1 0 7 1
@@ -2785,27 +2785,27 @@ N 64700 53600 65800 53600 4
 C 64000 49600 1 0 0 input-2.sym
 {
 T 64500 49700 5 10 1 1 0 7 1
-value=/OE
+value=OE#
 T 64000 49800 5 10 0 0 0 0 1
-net=CTL-/OE:1
+net=CTL/OE#:1
 T 64600 50300 5 10 0 0 0 0 1
 device=none
 }
 C 64000 49300 1 0 0 input-2.sym
 {
 T 64500 49400 5 10 1 1 0 7 1
-value=/WE
+value=WE#
 T 64000 49500 5 10 0 0 0 0 1
-net=CTL-/WE:1
+net=CTL/WE#:1
 T 64600 50000 5 10 0 0 0 0 1
 device=none
 }
 C 64000 49000 1 0 0 input-2.sym
 {
 T 64500 49100 5 10 1 1 0 7 1
-value=/UDS
+value=UDS#
 T 64000 49200 5 10 0 0 0 0 1
-net=ZORRO-/UDS:1
+net=ZORRO/UDS#:1
 T 64600 49700 5 10 0 0 0 0 1
 device=none
 }
@@ -2814,7 +2814,7 @@ C 64000 48700 1 0 0 input-2.sym
 T 64500 48800 5 10 1 1 0 7 1
 value=RAMCS1
 T 64000 48900 5 10 0 0 0 0 1
-net=CS-RAMCS1:1
+net=CS/RAMCS1:1
 T 64600 49400 5 10 0 0 0 0 1
 device=none
 }
@@ -2825,27 +2825,27 @@ N 65400 48800 65800 48800 4
 C 64000 43500 1 0 0 input-2.sym
 {
 T 64500 43600 5 10 1 1 0 7 1
-value=/OE
+value=OE#
 T 64000 43700 5 10 0 0 0 0 1
-net=CTL-/OE:1
+net=CTL/OE#:1
 T 64600 44200 5 10 0 0 0 0 1
 device=none
 }
 C 64000 43200 1 0 0 input-2.sym
 {
 T 64500 43300 5 10 1 1 0 7 1
-value=/WE
+value=WE#
 T 64000 43400 5 10 0 0 0 0 1
-net=CTL-/WE:1
+net=CTL/WE#:1
 T 64600 43900 5 10 0 0 0 0 1
 device=none
 }
 C 64000 42900 1 0 0 input-2.sym
 {
 T 64500 43000 5 10 1 1 0 7 1
-value=/LDS
+value=LDS#
 T 64000 43100 5 10 0 0 0 0 1
-net=ZORRO-/LDS:1
+net=ZORRO/LDS#:1
 T 64600 43600 5 10 0 0 0 0 1
 device=none
 }
@@ -2854,7 +2854,7 @@ C 64000 42600 1 0 0 input-2.sym
 T 64500 42700 5 10 1 1 0 7 1
 value=RAMCS1
 T 64000 42800 5 10 0 0 0 0 1
-net=CS-RAMCS1:1
+net=CS/RAMCS1:1
 T 64600 43300 5 10 0 0 0 0 1
 device=none
 }
@@ -2883,7 +2883,7 @@ footprint=DIP32
 C 77900 53500 1 0 1 input-2.sym
 {
 T 77900 53700 5 10 0 0 0 6 1
-net=ZORRO-A1:1
+net=ZORRO/A1:1
 T 77300 54200 5 10 0 0 0 6 1
 device=none
 T 77400 53600 5 10 1 1 0 1 1
@@ -2892,7 +2892,7 @@ value=A1
 C 78300 53200 1 0 1 input-2.sym
 {
 T 78300 53400 5 10 0 0 0 6 1
-net=ZORRO-A2:1
+net=ZORRO/A2:1
 T 77700 53900 5 10 0 0 0 6 1
 device=none
 T 77800 53300 5 10 1 1 0 1 1
@@ -2901,7 +2901,7 @@ value=A2
 C 77900 52900 1 0 1 input-2.sym
 {
 T 77900 53100 5 10 0 0 0 6 1
-net=ZORRO-A3:1
+net=ZORRO/A3:1
 T 77300 53600 5 10 0 0 0 6 1
 device=none
 T 77400 53000 5 10 1 1 0 1 1
@@ -2910,7 +2910,7 @@ value=A3
 C 78300 52600 1 0 1 input-2.sym
 {
 T 78300 52800 5 10 0 0 0 6 1
-net=ZORRO-A4:1
+net=ZORRO/A4:1
 T 77700 53300 5 10 0 0 0 6 1
 device=none
 T 77800 52700 5 10 1 1 0 1 1
@@ -2919,7 +2919,7 @@ value=A4
 C 77900 52300 1 0 1 input-2.sym
 {
 T 77900 52500 5 10 0 0 0 6 1
-net=ZORRO-A5:1
+net=ZORRO/A5:1
 T 77300 53000 5 10 0 0 0 6 1
 device=none
 T 77400 52400 5 10 1 1 0 1 1
@@ -2928,7 +2928,7 @@ value=A5
 C 78300 52000 1 0 1 input-2.sym
 {
 T 78300 52200 5 10 0 0 0 6 1
-net=ZORRO-A6:1
+net=ZORRO/A6:1
 T 77700 52700 5 10 0 0 0 6 1
 device=none
 T 77800 52100 5 10 1 1 0 1 1
@@ -2937,7 +2937,7 @@ value=A6
 C 77900 51700 1 0 1 input-2.sym
 {
 T 77900 51900 5 10 0 0 0 6 1
-net=ZORRO-A7:1
+net=ZORRO/A7:1
 T 77300 52400 5 10 0 0 0 6 1
 device=none
 T 77400 51800 5 10 1 1 0 1 1
@@ -2946,7 +2946,7 @@ value=A7
 C 78300 51400 1 0 1 input-2.sym
 {
 T 78300 51600 5 10 0 0 0 6 1
-net=ZORRO-A8:1
+net=ZORRO/A8:1
 T 77700 52100 5 10 0 0 0 6 1
 device=none
 T 77800 51500 5 10 1 1 0 1 1
@@ -2955,7 +2955,7 @@ value=A8
 C 77900 51100 1 0 1 input-2.sym
 {
 T 77900 51300 5 10 0 0 0 6 1
-net=ZORRO-A9:1
+net=ZORRO/A9:1
 T 77300 51800 5 10 0 0 0 6 1
 device=none
 T 77400 51200 5 10 1 1 0 1 1
@@ -2964,7 +2964,7 @@ value=A9
 C 78300 50800 1 0 1 input-2.sym
 {
 T 78300 51000 5 10 0 0 0 6 1
-net=ZORRO-A10:1
+net=ZORRO/A10:1
 T 77700 51500 5 10 0 0 0 6 1
 device=none
 T 77800 50900 5 10 1 1 0 1 1
@@ -2975,7 +2975,7 @@ C 77900 50500 1 0 1 input-2.sym
 T 77400 50600 5 10 1 1 0 1 1
 value=A11
 T 77900 50700 5 10 0 0 0 6 1
-net=ZORRO-A11:1
+net=ZORRO/A11:1
 T 77300 51200 5 10 0 0 0 6 1
 device=none
 }
@@ -2984,14 +2984,14 @@ C 78300 50200 1 0 1 input-2.sym
 T 77800 50300 5 10 1 1 0 1 1
 value=A12
 T 78300 50400 5 10 0 0 0 6 1
-net=ZORRO-A12:1
+net=ZORRO/A12:1
 T 77700 50900 5 10 0 0 0 6 1
 device=none
 }
 C 77900 49900 1 0 1 input-2.sym
 {
 T 77900 50100 5 10 0 0 0 6 1
-net=ZORRO-A13:1
+net=ZORRO/A13:1
 T 77300 50600 5 10 0 0 0 6 1
 device=none
 T 77400 50000 5 10 1 1 0 1 1
@@ -3000,7 +3000,7 @@ value=A13
 C 78300 49600 1 0 1 input-2.sym
 {
 T 78300 49800 5 10 0 0 0 6 1
-net=ZORRO-A14:1
+net=ZORRO/A14:1
 T 77700 50300 5 10 0 0 0 6 1
 device=none
 T 77800 49700 5 10 1 1 0 1 1
@@ -3009,7 +3009,7 @@ value=A14
 C 77900 49300 1 0 1 input-2.sym
 {
 T 77900 49500 5 10 0 0 0 6 1
-net=ZORRO-A15:1
+net=ZORRO/A15:1
 T 77300 50000 5 10 0 0 0 6 1
 device=none
 T 77400 49400 5 10 1 1 0 1 1
@@ -3018,7 +3018,7 @@ value=A15
 C 78300 49000 1 0 1 input-2.sym
 {
 T 78300 49200 5 10 0 0 0 6 1
-net=ZORRO-A16:1
+net=ZORRO/A16:1
 T 77700 49700 5 10 0 0 0 6 1
 device=none
 T 77800 49100 5 10 1 1 0 1 1
@@ -3027,7 +3027,7 @@ value=A16
 C 77900 48700 1 0 1 input-2.sym
 {
 T 77900 48900 5 10 0 0 0 6 1
-net=ZORRO-A17:1
+net=ZORRO/A17:1
 T 77300 49400 5 10 0 0 0 6 1
 device=none
 T 77400 48800 5 10 1 1 0 1 1
@@ -3053,7 +3053,7 @@ N 76100 48800 76500 48800 4
 C 77900 47400 1 0 1 input-2.sym
 {
 T 77900 47600 5 10 0 0 0 6 1
-net=ZORRO-A1:1
+net=ZORRO/A1:1
 T 77300 48100 5 10 0 0 0 6 1
 device=none
 T 77400 47500 5 10 1 1 0 1 1
@@ -3062,7 +3062,7 @@ value=A1
 C 78300 47100 1 0 1 input-2.sym
 {
 T 78300 47300 5 10 0 0 0 6 1
-net=ZORRO-A2:1
+net=ZORRO/A2:1
 T 77700 47800 5 10 0 0 0 6 1
 device=none
 T 77800 47200 5 10 1 1 0 1 1
@@ -3071,7 +3071,7 @@ value=A2
 C 77900 46800 1 0 1 input-2.sym
 {
 T 77900 47000 5 10 0 0 0 6 1
-net=ZORRO-A3:1
+net=ZORRO/A3:1
 T 77300 47500 5 10 0 0 0 6 1
 device=none
 T 77400 46900 5 10 1 1 0 1 1
@@ -3080,7 +3080,7 @@ value=A3
 C 78300 46500 1 0 1 input-2.sym
 {
 T 78300 46700 5 10 0 0 0 6 1
-net=ZORRO-A4:1
+net=ZORRO/A4:1
 T 77700 47200 5 10 0 0 0 6 1
 device=none
 T 77800 46600 5 10 1 1 0 1 1
@@ -3089,7 +3089,7 @@ value=A4
 C 77900 46200 1 0 1 input-2.sym
 {
 T 77900 46400 5 10 0 0 0 6 1
-net=ZORRO-A5:1
+net=ZORRO/A5:1
 T 77300 46900 5 10 0 0 0 6 1
 device=none
 T 77400 46300 5 10 1 1 0 1 1
@@ -3098,7 +3098,7 @@ value=A5
 C 78300 45900 1 0 1 input-2.sym
 {
 T 78300 46100 5 10 0 0 0 6 1
-net=ZORRO-A6:1
+net=ZORRO/A6:1
 T 77700 46600 5 10 0 0 0 6 1
 device=none
 T 77800 46000 5 10 1 1 0 1 1
@@ -3107,7 +3107,7 @@ value=A6
 C 77900 45600 1 0 1 input-2.sym
 {
 T 77900 45800 5 10 0 0 0 6 1
-net=ZORRO-A7:1
+net=ZORRO/A7:1
 T 77300 46300 5 10 0 0 0 6 1
 device=none
 T 77400 45700 5 10 1 1 0 1 1
@@ -3116,7 +3116,7 @@ value=A7
 C 78300 45300 1 0 1 input-2.sym
 {
 T 78300 45500 5 10 0 0 0 6 1
-net=ZORRO-A8:1
+net=ZORRO/A8:1
 T 77700 46000 5 10 0 0 0 6 1
 device=none
 T 77800 45400 5 10 1 1 0 1 1
@@ -3125,7 +3125,7 @@ value=A8
 C 77900 45000 1 0 1 input-2.sym
 {
 T 77900 45200 5 10 0 0 0 6 1
-net=ZORRO-A9:1
+net=ZORRO/A9:1
 T 77300 45700 5 10 0 0 0 6 1
 device=none
 T 77400 45100 5 10 1 1 0 1 1
@@ -3134,7 +3134,7 @@ value=A9
 C 78300 44700 1 0 1 input-2.sym
 {
 T 78300 44900 5 10 0 0 0 6 1
-net=ZORRO-A10:1
+net=ZORRO/A10:1
 T 77700 45400 5 10 0 0 0 6 1
 device=none
 T 77800 44800 5 10 1 1 0 1 1
@@ -3145,7 +3145,7 @@ C 77900 44400 1 0 1 input-2.sym
 T 77400 44500 5 10 1 1 0 1 1
 value=A11
 T 77900 44600 5 10 0 0 0 6 1
-net=ZORRO-A11:1
+net=ZORRO/A11:1
 T 77300 45100 5 10 0 0 0 6 1
 device=none
 }
@@ -3154,14 +3154,14 @@ C 78300 44100 1 0 1 input-2.sym
 T 77800 44200 5 10 1 1 0 1 1
 value=A12
 T 78300 44300 5 10 0 0 0 6 1
-net=ZORRO-A12:1
+net=ZORRO/A12:1
 T 77700 44800 5 10 0 0 0 6 1
 device=none
 }
 C 77900 43800 1 0 1 input-2.sym
 {
 T 77900 44000 5 10 0 0 0 6 1
-net=ZORRO-A13:1
+net=ZORRO/A13:1
 T 77300 44500 5 10 0 0 0 6 1
 device=none
 T 77400 43900 5 10 1 1 0 1 1
@@ -3170,7 +3170,7 @@ value=A13
 C 78300 43500 1 0 1 input-2.sym
 {
 T 78300 43700 5 10 0 0 0 6 1
-net=ZORRO-A14:1
+net=ZORRO/A14:1
 T 77700 44200 5 10 0 0 0 6 1
 device=none
 T 77800 43600 5 10 1 1 0 1 1
@@ -3179,7 +3179,7 @@ value=A14
 C 77900 43200 1 0 1 input-2.sym
 {
 T 77900 43400 5 10 0 0 0 6 1
-net=ZORRO-A15:1
+net=ZORRO/A15:1
 T 77300 43900 5 10 0 0 0 6 1
 device=none
 T 77400 43300 5 10 1 1 0 1 1
@@ -3188,7 +3188,7 @@ value=A15
 C 78300 42900 1 0 1 input-2.sym
 {
 T 78300 43100 5 10 0 0 0 6 1
-net=ZORRO-A16:1
+net=ZORRO/A16:1
 T 77700 43600 5 10 0 0 0 6 1
 device=none
 T 77800 43000 5 10 1 1 0 1 1
@@ -3197,7 +3197,7 @@ value=A16
 C 77900 42600 1 0 1 input-2.sym
 {
 T 77900 42800 5 10 0 0 0 6 1
-net=ZORRO-A17:1
+net=ZORRO/A17:1
 T 77300 43300 5 10 0 0 0 6 1
 device=none
 T 77400 42700 5 10 1 1 0 1 1
@@ -3223,7 +3223,7 @@ N 76100 42700 76500 42700 4
 C 72400 53500 1 0 1 io-1.sym
 {
 T 71500 53700 5 10 0 0 0 6 1
-net=ZORRO-D0:1
+net=ZORRO/D0:1
 T 72200 54100 5 10 0 0 0 6 1
 device=none
 T 71500 53600 5 10 1 1 0 7 1
@@ -3232,7 +3232,7 @@ value=D0
 C 73000 53200 1 0 1 io-1.sym
 {
 T 72100 53400 5 10 0 0 0 6 1
-net=ZORRO-D1:1
+net=ZORRO/D1:1
 T 72800 53800 5 10 0 0 0 6 1
 device=none
 T 72100 53300 5 10 1 1 0 7 1
@@ -3241,7 +3241,7 @@ value=D1
 C 72400 52900 1 0 1 io-1.sym
 {
 T 71500 53100 5 10 0 0 0 6 1
-net=ZORRO-D2:1
+net=ZORRO/D2:1
 T 72200 53500 5 10 0 0 0 6 1
 device=none
 T 71500 53000 5 10 1 1 0 7 1
@@ -3250,7 +3250,7 @@ value=D2
 C 73000 52600 1 0 1 io-1.sym
 {
 T 72100 52800 5 10 0 0 0 6 1
-net=ZORRO-D3:1
+net=ZORRO/D3:1
 T 72800 53200 5 10 0 0 0 6 1
 device=none
 T 72100 52700 5 10 1 1 0 7 1
@@ -3259,7 +3259,7 @@ value=D3
 C 72400 52300 1 0 1 io-1.sym
 {
 T 71500 52500 5 10 0 0 0 6 1
-net=ZORRO-D4:1
+net=ZORRO/D4:1
 T 72200 52900 5 10 0 0 0 6 1
 device=none
 T 71500 52400 5 10 1 1 0 7 1
@@ -3268,7 +3268,7 @@ value=D4
 C 73000 52000 1 0 1 io-1.sym
 {
 T 72100 52200 5 10 0 0 0 6 1
-net=ZORRO-D5:1
+net=ZORRO/D5:1
 T 72800 52600 5 10 0 0 0 6 1
 device=none
 T 72100 52100 5 10 1 1 0 7 1
@@ -3277,7 +3277,7 @@ value=D5
 C 72400 51700 1 0 1 io-1.sym
 {
 T 71500 51900 5 10 0 0 0 6 1
-net=ZORRO-D6:1
+net=ZORRO/D6:1
 T 72200 52300 5 10 0 0 0 6 1
 device=none
 T 71500 51800 5 10 1 1 0 7 1
@@ -3286,7 +3286,7 @@ value=D6
 C 73000 51400 1 0 1 io-1.sym
 {
 T 72100 51600 5 10 0 0 0 6 1
-net=ZORRO-D7:1
+net=ZORRO/D7:1
 T 72800 52000 5 10 0 0 0 6 1
 device=none
 T 72100 51500 5 10 1 1 0 7 1
@@ -3295,7 +3295,7 @@ value=D7
 C 72400 47400 1 0 1 io-1.sym
 {
 T 71500 47600 5 10 0 0 0 6 1
-net=ZORRO-D8:1
+net=ZORRO/D8:1
 T 72200 48000 5 10 0 0 0 6 1
 device=none
 T 71500 47500 5 10 1 1 0 7 1
@@ -3304,7 +3304,7 @@ value=D8
 C 73000 47100 1 0 1 io-1.sym
 {
 T 72100 47300 5 10 0 0 0 6 1
-net=ZORRO-D9:1
+net=ZORRO/D9:1
 T 72800 47700 5 10 0 0 0 6 1
 device=none
 T 72100 47200 5 10 1 1 0 7 1
@@ -3313,7 +3313,7 @@ value=D9
 C 72400 46800 1 0 1 io-1.sym
 {
 T 71500 47000 5 10 0 0 0 6 1
-net=ZORRO-D10:1
+net=ZORRO/D10:1
 T 72200 47400 5 10 0 0 0 6 1
 device=none
 T 71500 46900 5 10 1 1 0 7 1
@@ -3322,7 +3322,7 @@ value=D10
 C 73000 46500 1 0 1 io-1.sym
 {
 T 72100 46700 5 10 0 0 0 6 1
-net=ZORRO-D11:1
+net=ZORRO/D11:1
 T 72800 47100 5 10 0 0 0 6 1
 device=none
 T 72100 46600 5 10 1 1 0 7 1
@@ -3331,7 +3331,7 @@ value=D11
 C 72400 46200 1 0 1 io-1.sym
 {
 T 71500 46400 5 10 0 0 0 6 1
-net=ZORRO-D12:1
+net=ZORRO/D12:1
 T 72200 46800 5 10 0 0 0 6 1
 device=none
 T 71500 46300 5 10 1 1 0 7 1
@@ -3340,7 +3340,7 @@ value=D12
 C 73000 45900 1 0 1 io-1.sym
 {
 T 72100 46100 5 10 0 0 0 6 1
-net=ZORRO-D13:1
+net=ZORRO/D13:1
 T 72800 46500 5 10 0 0 0 6 1
 device=none
 T 72100 46000 5 10 1 1 0 7 1
@@ -3349,7 +3349,7 @@ value=D13
 C 72400 45600 1 0 1 io-1.sym
 {
 T 71500 45800 5 10 0 0 0 6 1
-net=ZORRO-D14:1
+net=ZORRO/D14:1
 T 72200 46200 5 10 0 0 0 6 1
 device=none
 T 71500 45700 5 10 1 1 0 7 1
@@ -3358,7 +3358,7 @@ value=D14
 C 73000 45300 1 0 1 io-1.sym
 {
 T 72100 45500 5 10 0 0 0 6 1
-net=ZORRO-D15:1
+net=ZORRO/D15:1
 T 72800 45900 5 10 0 0 0 6 1
 device=none
 T 72100 45400 5 10 1 1 0 7 1
@@ -3383,27 +3383,27 @@ N 72400 53600 73500 53600 4
 C 71700 49600 1 0 0 input-2.sym
 {
 T 72200 49700 5 10 1 1 0 7 1
-value=/OE
+value=OE#
 T 71700 49800 5 10 0 0 0 0 1
-net=CTL-/OE:1
+net=CTL/OE#:1
 T 72300 50300 5 10 0 0 0 0 1
 device=none
 }
 C 71700 49300 1 0 0 input-2.sym
 {
 T 72200 49400 5 10 1 1 0 7 1
-value=/WE
+value=WE#
 T 71700 49500 5 10 0 0 0 0 1
-net=CTL-/WE:1
+net=CTL/WE#:1
 T 72300 50000 5 10 0 0 0 0 1
 device=none
 }
 C 71700 49000 1 0 0 input-2.sym
 {
 T 72200 49100 5 10 1 1 0 7 1
-value=/UDS
+value=UDS#
 T 71700 49200 5 10 0 0 0 0 1
-net=ZORRO-/UDS:1
+net=ZORRO/UDS#:1
 T 72300 49700 5 10 0 0 0 0 1
 device=none
 }
@@ -3412,7 +3412,7 @@ C 71700 48700 1 0 0 input-2.sym
 T 72200 48800 5 10 1 1 0 7 1
 value=RAMCS2
 T 71700 48900 5 10 0 0 0 0 1
-net=CS-RAMCS2:1
+net=CS/RAMCS2:1
 T 72300 49400 5 10 0 0 0 0 1
 device=none
 }
@@ -3423,27 +3423,27 @@ N 73100 48800 73500 48800 4
 C 71700 43500 1 0 0 input-2.sym
 {
 T 72200 43600 5 10 1 1 0 7 1
-value=/OE
+value=OE#
 T 71700 43700 5 10 0 0 0 0 1
-net=CTL-/OE:1
+net=CTL/OE#:1
 T 72300 44200 5 10 0 0 0 0 1
 device=none
 }
 C 71700 43200 1 0 0 input-2.sym
 {
 T 72200 43300 5 10 1 1 0 7 1
-value=/WE
+value=WE#
 T 71700 43400 5 10 0 0 0 0 1
-net=CTL-/WE:1
+net=CTL/WE#:1
 T 72300 43900 5 10 0 0 0 0 1
 device=none
 }
 C 71700 42900 1 0 0 input-2.sym
 {
 T 72200 43000 5 10 1 1 0 7 1
-value=/LDS
+value=LDS#
 T 71700 43100 5 10 0 0 0 0 1
-net=ZORRO-/LDS:1
+net=ZORRO/LDS#:1
 T 72300 43600 5 10 0 0 0 0 1
 device=none
 }
@@ -3452,7 +3452,7 @@ C 71700 42600 1 0 0 input-2.sym
 T 72200 42700 5 10 1 1 0 7 1
 value=RAMCS2
 T 71700 42800 5 10 0 0 0 0 1
-net=CS-RAMCS2:1
+net=CS/RAMCS2:1
 T 72300 43300 5 10 0 0 0 0 1
 device=none
 }
@@ -3481,7 +3481,7 @@ footprint=DIP32
 C 85400 53500 1 0 1 input-2.sym
 {
 T 85400 53700 5 10 0 0 0 6 1
-net=ZORRO-A1:1
+net=ZORRO/A1:1
 T 84800 54200 5 10 0 0 0 6 1
 device=none
 T 84900 53600 5 10 1 1 0 1 1
@@ -3490,7 +3490,7 @@ value=A1
 C 85800 53200 1 0 1 input-2.sym
 {
 T 85800 53400 5 10 0 0 0 6 1
-net=ZORRO-A2:1
+net=ZORRO/A2:1
 T 85200 53900 5 10 0 0 0 6 1
 device=none
 T 85300 53300 5 10 1 1 0 1 1
@@ -3499,7 +3499,7 @@ value=A2
 C 85400 52900 1 0 1 input-2.sym
 {
 T 85400 53100 5 10 0 0 0 6 1
-net=ZORRO-A3:1
+net=ZORRO/A3:1
 T 84800 53600 5 10 0 0 0 6 1
 device=none
 T 84900 53000 5 10 1 1 0 1 1
@@ -3508,7 +3508,7 @@ value=A3
 C 85800 52600 1 0 1 input-2.sym
 {
 T 85800 52800 5 10 0 0 0 6 1
-net=ZORRO-A4:1
+net=ZORRO/A4:1
 T 85200 53300 5 10 0 0 0 6 1
 device=none
 T 85300 52700 5 10 1 1 0 1 1
@@ -3517,7 +3517,7 @@ value=A4
 C 85400 52300 1 0 1 input-2.sym
 {
 T 85400 52500 5 10 0 0 0 6 1
-net=ZORRO-A5:1
+net=ZORRO/A5:1
 T 84800 53000 5 10 0 0 0 6 1
 device=none
 T 84900 52400 5 10 1 1 0 1 1
@@ -3526,7 +3526,7 @@ value=A5
 C 85800 52000 1 0 1 input-2.sym
 {
 T 85800 52200 5 10 0 0 0 6 1
-net=ZORRO-A6:1
+net=ZORRO/A6:1
 T 85200 52700 5 10 0 0 0 6 1
 device=none
 T 85300 52100 5 10 1 1 0 1 1
@@ -3535,7 +3535,7 @@ value=A6
 C 85400 51700 1 0 1 input-2.sym
 {
 T 85400 51900 5 10 0 0 0 6 1
-net=ZORRO-A7:1
+net=ZORRO/A7:1
 T 84800 52400 5 10 0 0 0 6 1
 device=none
 T 84900 51800 5 10 1 1 0 1 1
@@ -3544,7 +3544,7 @@ value=A7
 C 85800 51400 1 0 1 input-2.sym
 {
 T 85800 51600 5 10 0 0 0 6 1
-net=ZORRO-A8:1
+net=ZORRO/A8:1
 T 85200 52100 5 10 0 0 0 6 1
 device=none
 T 85300 51500 5 10 1 1 0 1 1
@@ -3553,7 +3553,7 @@ value=A8
 C 85400 51100 1 0 1 input-2.sym
 {
 T 85400 51300 5 10 0 0 0 6 1
-net=ZORRO-A9:1
+net=ZORRO/A9:1
 T 84800 51800 5 10 0 0 0 6 1
 device=none
 T 84900 51200 5 10 1 1 0 1 1
@@ -3562,7 +3562,7 @@ value=A9
 C 85800 50800 1 0 1 input-2.sym
 {
 T 85800 51000 5 10 0 0 0 6 1
-net=ZORRO-A10:1
+net=ZORRO/A10:1
 T 85200 51500 5 10 0 0 0 6 1
 device=none
 T 85300 50900 5 10 1 1 0 1 1
@@ -3573,7 +3573,7 @@ C 85400 50500 1 0 1 input-2.sym
 T 84900 50600 5 10 1 1 0 1 1
 value=A11
 T 85400 50700 5 10 0 0 0 6 1
-net=ZORRO-A11:1
+net=ZORRO/A11:1
 T 84800 51200 5 10 0 0 0 6 1
 device=none
 }
@@ -3582,14 +3582,14 @@ C 85800 50200 1 0 1 input-2.sym
 T 85300 50300 5 10 1 1 0 1 1
 value=A12
 T 85800 50400 5 10 0 0 0 6 1
-net=ZORRO-A12:1
+net=ZORRO/A12:1
 T 85200 50900 5 10 0 0 0 6 1
 device=none
 }
 C 85400 49900 1 0 1 input-2.sym
 {
 T 85400 50100 5 10 0 0 0 6 1
-net=ZORRO-A13:1
+net=ZORRO/A13:1
 T 84800 50600 5 10 0 0 0 6 1
 device=none
 T 84900 50000 5 10 1 1 0 1 1
@@ -3598,7 +3598,7 @@ value=A13
 C 85800 49600 1 0 1 input-2.sym
 {
 T 85800 49800 5 10 0 0 0 6 1
-net=ZORRO-A14:1
+net=ZORRO/A14:1
 T 85200 50300 5 10 0 0 0 6 1
 device=none
 T 85300 49700 5 10 1 1 0 1 1
@@ -3607,7 +3607,7 @@ value=A14
 C 85400 49300 1 0 1 input-2.sym
 {
 T 85400 49500 5 10 0 0 0 6 1
-net=ZORRO-A15:1
+net=ZORRO/A15:1
 T 84800 50000 5 10 0 0 0 6 1
 device=none
 T 84900 49400 5 10 1 1 0 1 1
@@ -3616,7 +3616,7 @@ value=A15
 C 85800 49000 1 0 1 input-2.sym
 {
 T 85800 49200 5 10 0 0 0 6 1
-net=ZORRO-A16:1
+net=ZORRO/A16:1
 T 85200 49700 5 10 0 0 0 6 1
 device=none
 T 85300 49100 5 10 1 1 0 1 1
@@ -3625,7 +3625,7 @@ value=A16
 C 85400 48700 1 0 1 input-2.sym
 {
 T 85400 48900 5 10 0 0 0 6 1
-net=ZORRO-A17:1
+net=ZORRO/A17:1
 T 84800 49400 5 10 0 0 0 6 1
 device=none
 T 84900 48800 5 10 1 1 0 1 1
@@ -3651,7 +3651,7 @@ N 83600 48800 84000 48800 4
 C 85400 47400 1 0 1 input-2.sym
 {
 T 85400 47600 5 10 0 0 0 6 1
-net=ZORRO-A1:1
+net=ZORRO/A1:1
 T 84800 48100 5 10 0 0 0 6 1
 device=none
 T 84900 47500 5 10 1 1 0 1 1
@@ -3660,7 +3660,7 @@ value=A1
 C 85800 47100 1 0 1 input-2.sym
 {
 T 85800 47300 5 10 0 0 0 6 1
-net=ZORRO-A2:1
+net=ZORRO/A2:1
 T 85200 47800 5 10 0 0 0 6 1
 device=none
 T 85300 47200 5 10 1 1 0 1 1
@@ -3669,7 +3669,7 @@ value=A2
 C 85400 46800 1 0 1 input-2.sym
 {
 T 85400 47000 5 10 0 0 0 6 1
-net=ZORRO-A3:1
+net=ZORRO/A3:1
 T 84800 47500 5 10 0 0 0 6 1
 device=none
 T 84900 46900 5 10 1 1 0 1 1
@@ -3678,7 +3678,7 @@ value=A3
 C 85800 46500 1 0 1 input-2.sym
 {
 T 85800 46700 5 10 0 0 0 6 1
-net=ZORRO-A4:1
+net=ZORRO/A4:1
 T 85200 47200 5 10 0 0 0 6 1
 device=none
 T 85300 46600 5 10 1 1 0 1 1
@@ -3687,7 +3687,7 @@ value=A4
 C 85400 46200 1 0 1 input-2.sym
 {
 T 85400 46400 5 10 0 0 0 6 1
-net=ZORRO-A5:1
+net=ZORRO/A5:1
 T 84800 46900 5 10 0 0 0 6 1
 device=none
 T 84900 46300 5 10 1 1 0 1 1
@@ -3696,7 +3696,7 @@ value=A5
 C 85800 45900 1 0 1 input-2.sym
 {
 T 85800 46100 5 10 0 0 0 6 1
-net=ZORRO-A6:1
+net=ZORRO/A6:1
 T 85200 46600 5 10 0 0 0 6 1
 device=none
 T 85300 46000 5 10 1 1 0 1 1
@@ -3705,7 +3705,7 @@ value=A6
 C 85400 45600 1 0 1 input-2.sym
 {
 T 85400 45800 5 10 0 0 0 6 1
-net=ZORRO-A7:1
+net=ZORRO/A7:1
 T 84800 46300 5 10 0 0 0 6 1
 device=none
 T 84900 45700 5 10 1 1 0 1 1
@@ -3714,7 +3714,7 @@ value=A7
 C 85800 45300 1 0 1 input-2.sym
 {
 T 85800 45500 5 10 0 0 0 6 1
-net=ZORRO-A8:1
+net=ZORRO/A8:1
 T 85200 46000 5 10 0 0 0 6 1
 device=none
 T 85300 45400 5 10 1 1 0 1 1
@@ -3723,7 +3723,7 @@ value=A8
 C 85400 45000 1 0 1 input-2.sym
 {
 T 85400 45200 5 10 0 0 0 6 1
-net=ZORRO-A9:1
+net=ZORRO/A9:1
 T 84800 45700 5 10 0 0 0 6 1
 device=none
 T 84900 45100 5 10 1 1 0 1 1
@@ -3732,7 +3732,7 @@ value=A9
 C 85800 44700 1 0 1 input-2.sym
 {
 T 85800 44900 5 10 0 0 0 6 1
-net=ZORRO-A10:1
+net=ZORRO/A10:1
 T 85200 45400 5 10 0 0 0 6 1
 device=none
 T 85300 44800 5 10 1 1 0 1 1
@@ -3743,7 +3743,7 @@ C 85400 44400 1 0 1 input-2.sym
 T 84900 44500 5 10 1 1 0 1 1
 value=A11
 T 85400 44600 5 10 0 0 0 6 1
-net=ZORRO-A11:1
+net=ZORRO/A11:1
 T 84800 45100 5 10 0 0 0 6 1
 device=none
 }
@@ -3752,14 +3752,14 @@ C 85800 44100 1 0 1 input-2.sym
 T 85300 44200 5 10 1 1 0 1 1
 value=A12
 T 85800 44300 5 10 0 0 0 6 1
-net=ZORRO-A12:1
+net=ZORRO/A12:1
 T 85200 44800 5 10 0 0 0 6 1
 device=none
 }
 C 85400 43800 1 0 1 input-2.sym
 {
 T 85400 44000 5 10 0 0 0 6 1
-net=ZORRO-A13:1
+net=ZORRO/A13:1
 T 84800 44500 5 10 0 0 0 6 1
 device=none
 T 84900 43900 5 10 1 1 0 1 1
@@ -3768,7 +3768,7 @@ value=A13
 C 85800 43500 1 0 1 input-2.sym
 {
 T 85800 43700 5 10 0 0 0 6 1
-net=ZORRO-A14:1
+net=ZORRO/A14:1
 T 85200 44200 5 10 0 0 0 6 1
 device=none
 T 85300 43600 5 10 1 1 0 1 1
@@ -3777,7 +3777,7 @@ value=A14
 C 85400 43200 1 0 1 input-2.sym
 {
 T 85400 43400 5 10 0 0 0 6 1
-net=ZORRO-A15:1
+net=ZORRO/A15:1
 T 84800 43900 5 10 0 0 0 6 1
 device=none
 T 84900 43300 5 10 1 1 0 1 1
@@ -3786,7 +3786,7 @@ value=A15
 C 85800 42900 1 0 1 input-2.sym
 {
 T 85800 43100 5 10 0 0 0 6 1
-net=ZORRO-A16:1
+net=ZORRO/A16:1
 T 85200 43600 5 10 0 0 0 6 1
 device=none
 T 85300 43000 5 10 1 1 0 1 1
@@ -3795,7 +3795,7 @@ value=A16
 C 85400 42600 1 0 1 input-2.sym
 {
 T 85400 42800 5 10 0 0 0 6 1
-net=ZORRO-A17:1
+net=ZORRO/A17:1
 T 84800 43300 5 10 0 0 0 6 1
 device=none
 T 84900 42700 5 10 1 1 0 1 1
@@ -3821,7 +3821,7 @@ N 83600 42700 84000 42700 4
 C 79900 53500 1 0 1 io-1.sym
 {
 T 79000 53700 5 10 0 0 0 6 1
-net=ZORRO-D0:1
+net=ZORRO/D0:1
 T 79700 54100 5 10 0 0 0 6 1
 device=none
 T 79000 53600 5 10 1 1 0 7 1
@@ -3830,7 +3830,7 @@ value=D0
 C 80500 53200 1 0 1 io-1.sym
 {
 T 79600 53400 5 10 0 0 0 6 1
-net=ZORRO-D1:1
+net=ZORRO/D1:1
 T 80300 53800 5 10 0 0 0 6 1
 device=none
 T 79600 53300 5 10 1 1 0 7 1
@@ -3839,7 +3839,7 @@ value=D1
 C 79900 52900 1 0 1 io-1.sym
 {
 T 79000 53100 5 10 0 0 0 6 1
-net=ZORRO-D2:1
+net=ZORRO/D2:1
 T 79700 53500 5 10 0 0 0 6 1
 device=none
 T 79000 53000 5 10 1 1 0 7 1
@@ -3848,7 +3848,7 @@ value=D2
 C 80500 52600 1 0 1 io-1.sym
 {
 T 79600 52800 5 10 0 0 0 6 1
-net=ZORRO-D3:1
+net=ZORRO/D3:1
 T 80300 53200 5 10 0 0 0 6 1
 device=none
 T 79600 52700 5 10 1 1 0 7 1
@@ -3857,7 +3857,7 @@ value=D3
 C 79900 52300 1 0 1 io-1.sym
 {
 T 79000 52500 5 10 0 0 0 6 1
-net=ZORRO-D4:1
+net=ZORRO/D4:1
 T 79700 52900 5 10 0 0 0 6 1
 device=none
 T 79000 52400 5 10 1 1 0 7 1
@@ -3866,7 +3866,7 @@ value=D4
 C 80500 52000 1 0 1 io-1.sym
 {
 T 79600 52200 5 10 0 0 0 6 1
-net=ZORRO-D5:1
+net=ZORRO/D5:1
 T 80300 52600 5 10 0 0 0 6 1
 device=none
 T 79600 52100 5 10 1 1 0 7 1
@@ -3875,7 +3875,7 @@ value=D5
 C 79900 51700 1 0 1 io-1.sym
 {
 T 79000 51900 5 10 0 0 0 6 1
-net=ZORRO-D6:1
+net=ZORRO/D6:1
 T 79700 52300 5 10 0 0 0 6 1
 device=none
 T 79000 51800 5 10 1 1 0 7 1
@@ -3884,7 +3884,7 @@ value=D6
 C 80500 51400 1 0 1 io-1.sym
 {
 T 79600 51600 5 10 0 0 0 6 1
-net=ZORRO-D7:1
+net=ZORRO/D7:1
 T 80300 52000 5 10 0 0 0 6 1
 device=none
 T 79600 51500 5 10 1 1 0 7 1
@@ -3893,7 +3893,7 @@ value=D7
 C 79900 47400 1 0 1 io-1.sym
 {
 T 79000 47600 5 10 0 0 0 6 1
-net=ZORRO-D8:1
+net=ZORRO/D8:1
 T 79700 48000 5 10 0 0 0 6 1
 device=none
 T 79000 47500 5 10 1 1 0 7 1
@@ -3902,7 +3902,7 @@ value=D8
 C 80500 47100 1 0 1 io-1.sym
 {
 T 79600 47300 5 10 0 0 0 6 1
-net=ZORRO-D9:1
+net=ZORRO/D9:1
 T 80300 47700 5 10 0 0 0 6 1
 device=none
 T 79600 47200 5 10 1 1 0 7 1
@@ -3911,7 +3911,7 @@ value=D9
 C 79900 46800 1 0 1 io-1.sym
 {
 T 79000 47000 5 10 0 0 0 6 1
-net=ZORRO-D10:1
+net=ZORRO/D10:1
 T 79700 47400 5 10 0 0 0 6 1
 device=none
 T 79000 46900 5 10 1 1 0 7 1
@@ -3920,7 +3920,7 @@ value=D10
 C 80500 46500 1 0 1 io-1.sym
 {
 T 79600 46700 5 10 0 0 0 6 1
-net=ZORRO-D11:1
+net=ZORRO/D11:1
 T 80300 47100 5 10 0 0 0 6 1
 device=none
 T 79600 46600 5 10 1 1 0 7 1
@@ -3929,7 +3929,7 @@ value=D11
 C 79900 46200 1 0 1 io-1.sym
 {
 T 79000 46400 5 10 0 0 0 6 1
-net=ZORRO-D12:1
+net=ZORRO/D12:1
 T 79700 46800 5 10 0 0 0 6 1
 device=none
 T 79000 46300 5 10 1 1 0 7 1
@@ -3938,7 +3938,7 @@ value=D12
 C 80500 45900 1 0 1 io-1.sym
 {
 T 79600 46100 5 10 0 0 0 6 1
-net=ZORRO-D13:1
+net=ZORRO/D13:1
 T 80300 46500 5 10 0 0 0 6 1
 device=none
 T 79600 46000 5 10 1 1 0 7 1
@@ -3947,7 +3947,7 @@ value=D13
 C 79900 45600 1 0 1 io-1.sym
 {
 T 79000 45800 5 10 0 0 0 6 1
-net=ZORRO-D14:1
+net=ZORRO/D14:1
 T 79700 46200 5 10 0 0 0 6 1
 device=none
 T 79000 45700 5 10 1 1 0 7 1
@@ -3956,7 +3956,7 @@ value=D14
 C 80500 45300 1 0 1 io-1.sym
 {
 T 79600 45500 5 10 0 0 0 6 1
-net=ZORRO-D15:1
+net=ZORRO/D15:1
 T 80300 45900 5 10 0 0 0 6 1
 device=none
 T 79600 45400 5 10 1 1 0 7 1
@@ -3981,27 +3981,27 @@ N 79900 53600 81000 53600 4
 C 79200 49600 1 0 0 input-2.sym
 {
 T 79700 49700 5 10 1 1 0 7 1
-value=/OE
+value=OE#
 T 79200 49800 5 10 0 0 0 0 1
-net=CTL-/OE:1
+net=CTL/OE#:1
 T 79800 50300 5 10 0 0 0 0 1
 device=none
 }
 C 79200 49300 1 0 0 input-2.sym
 {
 T 79700 49400 5 10 1 1 0 7 1
-value=/WE
+value=WE#
 T 79200 49500 5 10 0 0 0 0 1
-net=CTL-/WE:1
+net=CTL/WE#:1
 T 79800 50000 5 10 0 0 0 0 1
 device=none
 }
 C 79200 49000 1 0 0 input-2.sym
 {
 T 79700 49100 5 10 1 1 0 7 1
-value=/UDS
+value=UDS#
 T 79200 49200 5 10 0 0 0 0 1
-net=ZORRO-/UDS:1
+net=ZORRO/UDS#:1
 T 79800 49700 5 10 0 0 0 0 1
 device=none
 }
@@ -4010,7 +4010,7 @@ C 79200 48700 1 0 0 input-2.sym
 T 79700 48800 5 10 1 1 0 7 1
 value=RAMCS3
 T 79200 48900 5 10 0 0 0 0 1
-net=CS-RAMCS3:1
+net=CS/RAMCS3:1
 T 79800 49400 5 10 0 0 0 0 1
 device=none
 }
@@ -4021,27 +4021,27 @@ N 80600 48800 81000 48800 4
 C 79200 43500 1 0 0 input-2.sym
 {
 T 79700 43600 5 10 1 1 0 7 1
-value=/OE
+value=OE#
 T 79200 43700 5 10 0 0 0 0 1
-net=CTL-/OE:1
+net=CTL/OE#:1
 T 79800 44200 5 10 0 0 0 0 1
 device=none
 }
 C 79200 43200 1 0 0 input-2.sym
 {
 T 79700 43300 5 10 1 1 0 7 1
-value=/WE
+value=WE#
 T 79200 43400 5 10 0 0 0 0 1
-net=CTL-/WE:1
+net=CTL/WE#:1
 T 79800 43900 5 10 0 0 0 0 1
 device=none
 }
 C 79200 42900 1 0 0 input-2.sym
 {
 T 79700 43000 5 10 1 1 0 7 1
-value=/LDS
+value=LDS#
 T 79200 43100 5 10 0 0 0 0 1
-net=ZORRO-/LDS:1
+net=ZORRO/LDS#:1
 T 79800 43600 5 10 0 0 0 0 1
 device=none
 }
@@ -4050,7 +4050,7 @@ C 79200 42600 1 0 0 input-2.sym
 T 79700 42700 5 10 1 1 0 7 1
 value=RAMCS3
 T 79200 42800 5 10 0 0 0 0 1
-net=CS-RAMCS3:1
+net=CS/RAMCS3:1
 T 79800 43300 5 10 0 0 0 0 1
 device=none
 }
@@ -4069,7 +4069,7 @@ RAM Bank 3
 C 59200 61800 1 0 0 22V10-PLCC.sym
 {
 T 59500 68600 5 10 0 0 0 0 1
-footprint=PLCC28
+footprint=PLCC28X
 T 59500 68200 5 10 0 0 0 0 1
 device=22V10-PLCC
 T 59500 68000 5 10 1 1 0 0 1
@@ -4082,16 +4082,16 @@ NB=Ground Pin 22 on PALCE
 C 57500 67100 1 0 0 input-2.sym
 {
 T 57500 67300 5 10 0 0 0 0 1
-net=ZORRO-/AS:1
+net=ZORRO/AS#:1
 T 58100 67800 5 10 0 0 0 0 1
 device=none
 T 58000 67200 5 10 1 1 0 7 1
-value=/AS
+value=AS#
 }
 C 57500 65000 1 0 0 input-2.sym
 {
 T 57500 65200 5 10 0 0 0 0 1
-net=ZORRO-READ:1
+net=ZORRO/READ:1
 T 58100 65700 5 10 0 0 0 0 1
 device=none
 T 58000 65100 5 10 1 1 0 7 1
@@ -4100,34 +4100,34 @@ value=READ
 C 57500 63800 1 0 0 input-2.sym
 {
 T 57500 64000 5 10 0 0 0 0 1
-net=ZORRO-/RST:1
+net=ZORRO/RST#:1
 T 58100 64500 5 10 0 0 0 0 1
 device=none
 T 58000 63900 5 10 1 1 0 7 1
-value=/RST
+value=RST#
 }
 C 63000 66500 1 0 0 output-2.sym
 {
 T 63900 66700 5 10 0 0 0 0 1
-net=CTL-/OE:1
+net=CTL/OE#:1
 T 63200 67200 5 10 0 0 0 0 1
 device=none
 T 63900 66600 5 10 1 1 0 1 1
-value=/OE
+value=OE#
 }
 C 63000 66200 1 0 0 output-2.sym
 {
 T 63900 66400 5 10 0 0 0 0 1
-net=ZORRO-/OVR:1
+net=ZORRO/OVR#:1
 T 63200 66900 5 10 0 0 0 0 1
 device=none
 T 63900 66300 5 10 1 1 0 1 1
-value=/OVR
+value=OVR#
 }
 C 63000 65900 1 0 0 output-2.sym
 {
 T 63900 66100 5 10 0 0 0 0 1
-net=CS-ROMH:1
+net=CS/ROMH:1
 T 63200 66600 5 10 0 0 0 0 1
 device=none
 T 63900 66000 5 10 1 1 0 1 1
@@ -4136,16 +4136,16 @@ value=ROMH
 C 63000 65600 1 0 0 output-2.sym
 {
 T 63900 65800 5 10 0 0 0 0 1
-net=CS-/ROMCS:1
+net=CS/ROMCS#:1
 T 63200 66300 5 10 0 0 0 0 1
 device=none
 T 63900 65700 5 10 1 1 0 1 1
-value=/ROMCS
+value=ROMCS#
 }
 C 63000 65300 1 0 0 output-2.sym
 {
 T 63900 65500 5 10 0 0 0 0 1
-net=CS-RAMCS0:1
+net=CS/RAMCS0:1
 T 63200 66000 5 10 0 0 0 0 1
 device=none
 T 63900 65400 5 10 1 1 0 1 1
@@ -4154,7 +4154,7 @@ value=RAMCS0
 C 63000 65000 1 0 0 output-2.sym
 {
 T 63900 65200 5 10 0 0 0 0 1
-net=CS-RAMCS1:1
+net=CS/RAMCS1:1
 T 63200 65700 5 10 0 0 0 0 1
 device=none
 T 63900 65100 5 10 1 1 0 1 1
@@ -4163,7 +4163,7 @@ value=RAMCS1
 C 63000 64700 1 0 0 output-2.sym
 {
 T 63900 64900 5 10 0 0 0 0 1
-net=CS-RAMCS2:1
+net=CS/RAMCS2:1
 T 63200 65400 5 10 0 0 0 0 1
 device=none
 T 63900 64800 5 10 1 1 0 1 1
@@ -4172,7 +4172,7 @@ value=RAMCS2
 C 63000 64400 1 0 0 output-2.sym
 {
 T 63900 64600 5 10 0 0 0 0 1
-net=CS-RAMCS3:1
+net=CS/RAMCS3:1
 T 63200 65100 5 10 0 0 0 0 1
 device=none
 T 63900 64500 5 10 1 1 0 1 1
@@ -4195,7 +4195,7 @@ N 61000 61500 61000 61800 4
 C 57500 65500 1 180 1 input-2.sym
 {
 T 57500 65300 5 10 0 0 180 6 1
-net=ZORRO-A18:1
+net=ZORRO/A18:1
 T 58100 64800 5 10 0 0 180 6 1
 device=none
 T 58000 65400 5 10 1 1 180 1 1
@@ -4204,7 +4204,7 @@ value=A18
 C 57500 65800 1 180 1 input-2.sym
 {
 T 57500 65600 5 10 0 0 180 6 1
-net=ZORRO-A19:1
+net=ZORRO/A19:1
 T 58100 65100 5 10 0 0 180 6 1
 device=none
 T 58000 65700 5 10 1 1 180 1 1
@@ -4213,7 +4213,7 @@ value=A19
 C 57500 66100 1 180 1 input-2.sym
 {
 T 57500 65900 5 10 0 0 180 6 1
-net=ZORRO-A20:1
+net=ZORRO/A20:1
 T 58100 65400 5 10 0 0 180 6 1
 device=none
 T 58000 66000 5 10 1 1 180 1 1
@@ -4224,7 +4224,7 @@ C 57500 66400 1 180 1 input-2.sym
 T 58000 66300 5 10 1 1 180 1 1
 value=A21
 T 57500 66200 5 10 0 0 180 6 1
-net=ZORRO-A21:1
+net=ZORRO/A21:1
 T 58100 65700 5 10 0 0 180 6 1
 device=none
 }
@@ -4233,14 +4233,14 @@ C 57500 66700 1 180 1 input-2.sym
 T 58000 66600 5 10 1 1 180 1 1
 value=A22
 T 57500 66500 5 10 0 0 180 6 1
-net=ZORRO-A22:1
+net=ZORRO/A22:1
 T 58100 66000 5 10 0 0 180 6 1
 device=none
 }
 C 57500 67000 1 180 1 input-2.sym
 {
 T 57500 66800 5 10 0 0 180 6 1
-net=ZORRO-A23:1
+net=ZORRO/A23:1
 T 58100 66300 5 10 0 0 180 6 1
 device=none
 T 58000 66900 5 10 1 1 180 1 1
@@ -4255,11 +4255,11 @@ N 58900 66900 59200 66900 4
 C 63000 66800 1 0 0 output-2.sym
 {
 T 63900 67000 5 10 0 0 0 0 1
-net=CTL-/WE:1
+net=CTL/WE#:1
 T 63200 67500 5 10 0 0 0 0 1
 device=none
 T 63900 66900 5 10 1 1 0 1 1
-value=/WE
+value=WE#
 }
 N 62800 66900 63000 66900 4
 C 56400 62200 1 0 0 connector4-1.sym
@@ -4276,8 +4276,6 @@ N 58100 63000 59200 63000 4
 N 58100 62700 59200 62700 4
 N 58100 62400 59200 62400 4
 C 60900 61200 1 0 0 gnd-1.sym
-C 57400 64500 1 0 0 gnd-1.sym
-N 57500 64800 59200 64800 4
 C 63200 67100 1 0 0 resistor-1.sym
 {
 T 63500 67500 5 10 0 0 0 0 1
@@ -4305,4 +4303,13 @@ N 63200 67200 62800 67200 4
 N 64100 67200 64500 67200 4
 N 65400 67200 65900 67200 4
 N 65900 67200 65900 67600 4
-N 59200 64800 59200 64500 4
+C 56600 64500 1 0 1 spdt-noblock.sym
+C 55200 64200 1 0 1 spdt-noblock.sym
+N 59200 64200 57200 64200 4
+C 57100 63900 1 0 0 gnd-1.sym
+N 56600 64800 59200 64800 4
+N 59200 64500 55200 64500 4
+C 55700 63700 1 0 0 gnd-1.sym
+C 54300 63700 1 0 0 gnd-1.sym
+N 54400 64300 54400 64000 4
+N 55800 64000 55800 64600 4

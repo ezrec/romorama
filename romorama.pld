@@ -1,12 +1,14 @@
 GAL22V10   ; ROM-O-RAMA Amiga KISS PAL
 ROMORAMA   ; Signature line
 
-/AS   A23  A22 A21 A20 A19   A18    READ    NC      NC      NC     GND
+/AS   A23  A22 A21 A20 A19   A18    READ    /FLSW   /ROMSW  NC     GND
 /RST  OVL /WE /OE /OVR ROMH /ROMCS  RAMCS0  RAMCS1  RAMCS2  RAMCS3 VCC
 ; /RST		in	Reset
 ; /AS		in	Address strobe
 ;  A23-A18	in	Decode lines
 ;  READ		in	Read-not-Write (aka /WE)
+; /FLSW         in      Flash Swap Switch
+; /ROMSW	in	ROM Enable Switch
 ;
 ;  OVL		io	Overlay active (buried logic)
 ;
@@ -34,10 +36,10 @@ WE = AS * /READ * /ROMH * ROMCS * /OVL
 
 OE = AS * READ
 
-OVR = AS * ROMCS * ROMH * /OVL
+OVR = AS * ROMCS * ROMH * /OVL * ROMSW
 
-ROMH = /A23 * /A22 * /A21 * /A20 * /OVL
-     +  A23 *  A22 *  A21 *  A20
+ROMH = /A23 * /A22 * /A21 * /A20 * /OVL * FLSW
+     +  A23 *  A22 *  A21 *  A20 * FLSW
 
 ROMCS = ROMH * AS
       + A23 * /A22 *  A21 * /A20 * AS
@@ -57,11 +59,11 @@ ROM-O-RAMA: 1M byte RAM, 1M byte flash upgrade for the Amiga 1000.
 'Keep It Simple, Stupid' variant.
 
 if /OVL & AS:
-	if (A == 0x0)
+	if (A == 0x0 && /ROMSW)
 		ROMH = 1
 		ROMCS = 1
 		WE = 0
-	if (A == 0xf)
+	if (A == 0xf && /ROMSW)
 		ROMH = 1
 		ROMCS = 1
 		OVL = 1
@@ -69,12 +71,12 @@ if /OVL & AS:
 
 if !/OVL & AS:
 	if (A == 0xf00000 - 0xffffff)
-		ROMH = 1
+		ROMH = FLSW
 		ROMCS = 1
 		WE = 0
 		OE = /READ
 	if (A == 0xa00000 - 0xa7ffff)
-		ROMH = 0
+		ROMH = /FLSW
 		ROMCS = 1
 		WE = 1
 		OE = /READ
